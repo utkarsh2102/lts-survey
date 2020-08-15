@@ -1,0 +1,906 @@
+What suggestions/wishes do you have for Debian LTS?
+===================================================
+
+➣ None.
+
+➣ remove systemd from everywhere
+
+➣ Keep doing! You are doing great work!
+
+➣ Continue like that, the effort is very appreciated!
+
+➣ Keep up the good work.
+
+➣ stay healthy!
+
+➣ no
+
+➣ 1. LTS Debian versions should jump a release (e.g. if Jessie is LTS, 
+     Stretch should not and Buster should be again, and so on...)
+  2. Bring Debian LTS time to 10 years as for RHEL
+
+➣ Faster.
+
+➣ Faster updates
+
+➣ I hope this will become the standard.
+
+➣ Keep up the good work!
+
+➣ No
+
+➣ see above. 
+
+➣ My expected use for LTS is the fear of 32 bit versions going away.
+  I use both 64 & 32 and support others who rely on 32 bit Debian.
+  If 32 bit Debian goes away, I'll be hoping for 32 bit LTS to continue using 32 
+  bit for a long as possible.
+
+➣ As a software developer myself, I know how much work it is to support older 
+  software so I can only thank the team for their effort.
+  Wish: Easy and consistent way to upgrade one Debian LTS to the next Debian 
+  release or LTS? :)
+
+➣ A safer VPN toolchain.
+
+➣ documentation could be a lot better
+
+➣ Perhaps it could advertise it's existence more loudly? I didn't know it was 
+  a thing.
+
+➣ nothing i am fine with the current state
+
+➣ Update Firefox at least once a year.
+
+➣ Updates more quickly
+
+➣ LTS is great thing to have is resources allow it.
+
+➣ Even longer support to foster my laziness.
+
+➣ nothing
+
+➣ already great
+
+➣ Perhaps a better explanation of what ELTS is or a clear and definitive date 
+  of the EOL of each Debian LTS enabled release.
+
+➣ Better visibility what packages/architectures are supported and which might 
+  end up without support before this is getting relevant (so you're forced to 
+  take care through an unplanned dist-upgrade). 
+  Better on-boarding process for non-Freexian contributors.
+  Communicate EOL way more upfront than just a few days before the actual EOL 
+  date.
+  More frequent updates of debian-security-support packages towards stable but 
+  also to oldstable and any further relevant/supported release, e.g. the 
+  pdns-recursor EOL seems to be still invisible.
+
+➣ Keep the good work up!
+
+➣ Thanks for the work. Maybe have more direct info for the user when packages 
+  are no longer covered if he invokes apt. I do not know if everybody knows 
+  debian-security-support.
+
+➣ I think, organizations should think about an upgrade path, and that it’d 
+  be great, if Debian LTS wouldn’t be needed.
+
+➣ Go for 10 years of security patches
+
+➣ more updates
+
+➣ Have more up to date drivers and kernels in the LTS version
+
+➣ That some bigger updates get backported or even reach LTS of the package is 
+  otherwise next to useless.
+
+➣ I wish to have a stable and secure system with minimum maintenance overhead.
+
+➣ new versions of php and mariadb updated more frequently, I would love to 
+  see php 8 on Debian Stable, and the Deepin and Lomiri environments with their 
+  non-free Debian isos.
+
+➣ NO systemd dependence, NO Python dependence for mission-critical 
+  components, EVER.
+
+➣ keep on doing a great job!
+
+➣ Continue offering it. Many people need/want the stability and long term 
+  support Debian LTS offers.
+
+➣ Free Selektion of systemd or another init procedure
+
+➣ Little Faster updates.
+
+➣ Even longer LTS support.
+
+➣ Maybe some sort of automated backports mechanism (opt-in, not enabled by 
+  default), which could be added to apt sources & pinned instead of 
+  testing/unstable directly?  Packages in it would be newer, but linked against 
+  LTS libraries. Anything that fails to build could be omitted; this would just 
+  be there to solve the simple cases. 
+
+➣ Update popular programs sush as web browsers etc.
+
+➣ N/A
+
+➣ Need regularly up to date latest package of apps like LOffice, Gimp, 
+  Firefox, Inkscape, Scribus etc. 
+
+➣ I would love it if LTS was one year longer, so that I can directly switch 
+  to the release+3 instead of release+2.
+
+➣ Somewhat better notifications in the update process. I had actually 
+  forgotten about when the LTS ended for  Jessie and was only made aware of it 
+  thanks to a Reddit post. Had there been some sort of notice (preferably in a 
+  different color) when running apt update/upgrade in advance I wouldn’t have 
+  had to upgrade quite as quickly.
+
+➣ Perhaps offer easier means of monetary contributions. And transparency 
+  about such contributions. Cryptocurrencies, Patreon or similar platforms, 
+  donations via cash or check, and how such donations will directly benefit 
+  Debian. Also, clearer communication regarding commercial support services. If 
+  Slackware can pull in thousands of extra dollars a month in donations, why not 
+  Debian? 
+
+➣ Have a better Package version like Arch but i know is hard
+
+➣ More funding for Debian LTS
+
+➣ Keep going and thank you. It's been a great distro for most of the time.
+
+➣ More contributors.
+
+➣ Handover + Communication + Period of LTS are fine and good and 
+  professional. 
+
+➣ Personally I would like to see *more* communication from the LTS 
+  contributors to me as the maintainer of at least on package that regularly gets 
+  a security update. I'd like to help and avoid duplicate effort. Often the 
+  effort can easily apply to stable and oldstable as well. Having a nice set of 
+  git commits is nicer than to $(gbp import-dsc).
+
+➣ Raise the bar on documentation standards and limit official sources so 
+  access to the information doesn't require advanced search skills. 
+
+➣ If I were to wish for anything it would be for slightly more control over 
+  the software that gets installed through the installer. I understand that the 
+  software included
+  in the different desktop environments isn't a responsibility for the Debian 
+  developers, but if I had the option to not install Libre Office when I do my 
+  usual Debian stable + XFCE install, I would be very happy and both me and your 
+  servers could avoid a good bit of downloading.
+
+➣ Keep rocking!
+
+➣ Difficult to suggest but PHP 5.6 for Jessie was corrected for security 
+  problems after it's upstream EOL. It will be great if more packages (Xen for 
+  exemple) can be supported as long. But I know it's a very difficult work.
+
+➣ I wish it wasn’t so expensive or complex to use ELTS or I’d use it. I 
+  understand though that ultimately it takes effort and so it should cost money. 
+  But it’s too much money, even for my business, and so when LTS ends, I’m in 
+  the same position I tried to avoid (having to upgrade).
+
+➣ Potentially to prioritize specific features that users can make use of. 
+
+➣ No
+
+➣ For packages, to get the latest stable releases that are available in the 
+  newest Debian releases.
+
+➣ See answer for #12
+
+➣ Keep it up.
+
+➣ 3 yeas and 5 for ELTS.
+
+➣ I'd like it to remain reliable & maintainable, and to provide options 
+  wherever possible (init system, desktop environment, web browser, etc.).
+
+➣ Make LTS support even longer! Of course that is just a wish. I realize you 
+  already have your hands full.
+
+➣ Support as many packages as possible in the official Debian repositories 
+  for LTS support.
+
+➣ Keep going.
+
+➣ Keep up the good work
+
+➣ Keep going! Your work is important!
+  Is it feasible to have some kind of user-tagging protocol for packages that 
+  have bugs in LTS versions?
+  This might be useful for 'how-can-i-help' and other tools to highlight areas 
+  where contributions could be made.
+
+➣ Mailing list for CVEs fixed
+
+➣ Keep the good job.
+
+➣ Use Latest packages which are not in core of the os.
+
+➣ For any Debian distribution: give back the choice and give back KISS.
+  I'm not a professional sysadmin, I'm a coder who has extended it's knowledge to 
+  basic system administration for personal purposes (FW, mail, web server ...) 
+  and for professional purposes (when coding something that needs a server, what 
+  best than bringing up one yourself ?). I'm not following all the news related 
+  to changes every day, so I did not see systemd coming.
+  On my personal FW, when upgrading to the first Debian using it, it was a 
+  disaster: there was a new init system I knew nothing about, it was forbidding 
+  my system to boot, and I had zero clue where to begin to solve the problem. So, 
+  I did not solve it, I had to reinstall from scratch. Not happy.
+  Since then, systemd appears to be a cancer of some sort (Steve B., get out this 
+  body!): it grabs parts of the system, make them harder to understand and 
+  configure.
+  One of the most frustrating problem I had recently (end of 2019 / beginning of 
+  2020) was network configuration: I did a Debian Stable fresh install on a 
+  system dedicated to spy the network (samples and products testing, do they 
+  phone home and things like that). Obviously, I needed complete control over the 
+  network configuration. So I made modifications to set a fixed IP address on 
+  both side. Problem: on one interface, I ended up with two IP addresses: the 
+  fixed one I set, and another one obtained by DHCP. What? I have no notes, no 
+  forensic, nothing to prove what I say because:
+  - it should have been straightforward. It became panic and irrational try this, 
+    try that, it makes no sense but what does?. I used both vim 
+    /etc/network/interfaces and the graphical network configuration tools for sure. 
+    But why would I need a graphical desktop in the first place for this kind of 
+    purpose? Trying to imitate Windows?...
+  - I chose to install a Devuan instead. Sad, isn't it?
+    Of course, this is far from the central point of this questionnaire. And of 
+    course, I should not forget all the things that are working well, and more 
+    over, all the people behind them, and thanks a lot for that. But I sense that 
+    one of the oldest and beloved Linux distribution is loosing its fan base (fan 
+    in many acceptation, pro and amateurs, etc.). I, myself, am looking for a 
+    replacement without systemd, and am already trying Devuan, and thinking to give 
+    again a try to Gentoo.
+
+➣ N/a
+
+➣ Keep your great work going!
+
+➣ Ancient and stable are not always the same thing.
+
+➣ The time of LTS may be longer for special security updates.
+
+➣ support more software ideally full repo
+
+➣ N/A
+
+➣ Nothing
+
+➣ ability to easy install latest software.
+
+➣ If there was a loss of a LTS then it would encourage us to move away from 
+  Debian, which is not what we want. It would be good to make the LTS effort more 
+  official and supported
+
+➣ NA
+
+➣ prolong support of LTS
+
+➣ Do not use surveys which session expires while the responder writes his 
+  answers.
+
+➣ In our situation, having even longer support (10+ years) for security 
+  updates would be great. But I understand it is not an easy thing to do. I hope 
+  to see more work with the Linux Foundation Civil Infrastructure Project to make 
+  this happen.
+
+➣ I wish LTS people took over regular stable updates too - they issue updates 
+  faster and more frequently for our use case (LAMP)
+
+➣ nothing, sorry
+
+➣ Easily install packages from current stable or testing branch if necessary
+
+➣ Thank you very much for LTS.
+
+➣ It would be good if the updates made during the LTS phase were included in 
+  the distribution at archive.debian.org at the end of the LTS cycle.
+
+➣ Would be nice to make eLTS an official Debian project in Debian 
+  infrastructure.
+
+➣ Rolling updates
+
+➣ Nothing
+
+➣ None
+
+➣ Make updated software available in the repos faster
+
+➣ I hope that enough people can be paid to work on LTS! :)
+
+➣ None. 
+
+➣ n/a
+
+➣ The (majority of the world just don't deserves it...
+
+➣ Add stuff to move from LTS to ELTS magically please.
+
+➣ N.A.
+
+➣ I'm no expert, but if I were to think of suggestions/ideas: Consider 
+  joining forces with Ubuntu LTS maintainers. Make sure to include platform-type 
+  packages like tomcat, python among supported packages.
+
+➣ Provide a suggested annual donation amount for commercial businesses using 
+  LTS! :)
+
+➣ Backport new LTS kernels. Backport new Gnome versions.
+
+➣ Provide updated chromium.
+
+➣ Keep it up!
+
+➣ Make more visible what packages are supported in Debian LTS, as sometime, I 
+  saw users feels confident that the Debian LTS covers all their packages, but in 
+  fact it's not.
+
+➣ I would like that LTS project become a debian project and not an external 
+  project not maintained by volunteers but maintained from the original package 
+  developer 
+
+➣ To be for more years, even safer and with a few more package updates in 
+  newer versions.
+
+➣ Hummm, may I suggest to add 5 more years of LTS support?
+
+➣ None, I just really, really appreciate the volunteers and the support.
+
+➣ Thanks a lot, keep up the good work!
+
+➣ To do it longer and with more coverage, ideally based on which software is 
+  actually still used within LTS.
+  If you do such a survey in future again, you should definitely ask more details 
+  about what exactly people still use and why, so that you can focus more on 
+  updates that are very relevant for many.
+
+➣ Keep it up :)
+
+➣ Please continue to deliver 32 bits distro for some years.
+  And I would like to say that XFCE is my favorite desktop.
+
+➣ Don't be too strict / harsh on the end user opinions. Most of the end users 
+  might be sysadmins or just regular users, but are not developers. Linux 
+  community in general is very rude to newcomers, and that has to change. 
+
+➣ Debian LTS works great as is.
+
+➣ TY for maintaining ~5 years of support for the OS.
+  This permits attention on more important application layer items.
+
+➣ The longer LTS support the better.
+
+➣ stop LTS, requires admins to maintain even more local rerepros with local 
+  fixes/backports
+
+➣ * keep backports repository after standard eol
+  * even longer support
+
+➣ Please extend the LTS philosophy to backports.
+
+➣ no
+
+➣ best wishes for debian LTS
+
+➣ Congratulations and keep it up. You make Linux a professional work tool and 
+  not just a broken toy. Thanks for everything
+
+➣ I wish LTS was available for much longer than 3 years. I would recommend 
+  using CentOS instead just because it is supported for 10 years.
+
+➣ Write more about how can we help and spread the word a lot more...
+
+➣ Getting out of the dilemma mentioned in question 12 is not that simple; 
+  simply appealing to the involved persons to work together etc. won't help, as 
+  it's structural.
+  Of course the cleanest solution would be to separate LTS from Debian 
+  (infrastructure) like it's done for ELTS, and treat it as an endorsed and 
+  valued derivative.
+  Besides that Roberto's idea from some mailing list/some pad (let the LTS work 
+  in core team be done by LTS people) might help.
+  Or getting an agreement where LTS invests more, gives more back to Debian 
+  proper (in terms of money and/or personpower for infrastructure tasks, like 
+  fixing DAK bugs; kind of like LTS renting infrastructure, earmarking x% of (LTS 
+  money ≈) LTS time in the pool for Debian infrastructure 
+  maintenance/improvements) …
+
+➣ None.
+
+➣ hope it could have more impact on linux
+
+➣ Adding backports.
+  Other than that, completely content; the problem is rather that bugs are fixed 
+  in LTS or even ELTS that are unfixed in stable *and* unstable for *months*. LTS 
+  contributors might consider NMUing there in those cases, but I understand that 
+  would more than double the effort.
+
+➣ Further distance non-free software from Debian
+
+➣ Longer support :)
+
+➣ longer support date 
+
+➣ I prefer the way Ubuntu handles LTS. It's a bit more clean (IMHO) when it 
+  comes to upgrading. It's easy to switch from one LTS to another. 
+
+➣ I wish that the Flatpak backports package gets the same care and update 
+  frequency for the whole LTS period. It might be like that already but I 
+  couldn't find info about it.
+
+➣ Nothing. If something is working Ok, don't touch it. It works. No more.
+
+➣ keep going
+
+➣ N/A
+
+➣ Automatic upgrade scripts to next LTS
+
+➣ Some software should remain installable for ever
+
+➣ I am very happy that Lts/Elts exist. Please don't stop to work at this. And 
+  many thanks for your hard work!
+
+➣ Keep up the great job! 😃
+
+➣ Keep doing this fantastic work.
+
+➣ keep it. dont cancel the lts project.
+
+➣ I would say the option to have stable upgrades for packages.
+
+➣ All cool
+
+➣ please continue the good work
+
+➣ None; it's fine as it is.
+
+➣ I wish Debian would be more like Ubuntu in handling LTS 
+
+➣ More hardware firmaware.
+
+➣ Get lollypop package into the repositories.
+
+➣ Have a compromize between stability of the system, and more current 
+  software. 
+  Driver support from the installation.. e.g. Graphics cards like NVIDIA.
+
+➣ Services for beginners, such as helpfull setup scripts
+
+➣ Don't stray from your path.
+
+➣ Keep this strategy and this feature. very useful and needed. 
+
+➣ My keyboard logitech G15 not working on debian 10.please fix.
+
+➣ I am glad LTS exists. I have been using it with Wheezy to keep Crunchbang 
+  Waldorf going for longer and am glad to have the option of taking more time to 
+  upgrade in future if I don't want or upgrading is not feasible, due to time 
+  constraints, old hardware etc. May spin a server on DigitalOcean in the future 
+  and would be happy to keep for five years without a need to upgrade.
+
+➣ Longer would be nice, but that's always the case. I prefer to never have to 
+  migrate software on my VPS if possible.
+
+➣ Keep up the good work! I enjoy debian, and being able to use it in longer 
+  term projects, or worry less amount migration plans has been awesome.
+
+➣ Keep on
+
+➣ Support more architectures.  RISC-V in particular; for IoT gadgets.
+
+➣ Good to have visibility of new lts releases a year or 2 ahead so I can plan 
+  major dist upgrades. 
+
+➣ Keep up the good work!
+
+➣ Keep up the good work! Started using Debian at version 4 and have never 
+  looked back! 
+
+➣ Try to accelerate Debian OS updates.
+
+➣ More game support from the current shooters. More game support from the 
+  current shooters.
+  I now use steam where I have all my games. Unfortunately I cannot play all 
+  games on Debian. I am taking it up and hope it will get better in the future.
+
+➣ 1. It would be great if the Debian LTS team could join forces with other 
+     distributions providing long-term support - or even vendors providing their own 
+     solution on top of Debian LTS - to share workload and/or costs.
+  2. Ideally Python 2.7 would still receive security updates if required :)
+
+➣ That it continue in some way shape or form.
+
+➣ Make it easy to use alternatives to systemd.
+
+➣ Continue.
+
+➣ I hope it continues as it has.
+
+➣ That the Devs keep it going ...
+
+➣ Keep it going, please!
+
+➣ In certain scenarios and totally market dependent of course, sanction a 
+  handful of packages that improve hardware support as optional minor upgrades 
+  that do not affect the underlying OS.. e.g., firmware/driver support for core 
+  components like graphics, PM and NIC.
+
+➣ Certain packages in the Debian LTS repos can sometimes be a buggy version. 
+  While I like the goal of packages not changing, I think updating packages to 
+  more stable/less buggy versions should take priority, if said package has some 
+  pretty glaring bugs that were fixed in a newer version. I would only recommend 
+  this on a case by case basis, though. 
+  In other words, I feel that Debian LTS's goal should be to assemble the most 
+  reliable and stable versions of software, and then lock in that known good 
+  version. This is in contrast of keeping buggy versions for the sake of 
+  'stability' in the sense that things don't change.
+
+➣ would be nice to encourage more interaction. im definitely against this 
+  whole smartphone craze cuz ya no, it makeds peeps dum n dumerer
+
+➣ Keep up the great job.
+
+➣ None.
+
+➣ Hoping the extended Ubuntu support that was recently announced eases some 
+  of the burden to maintain LTS or even ELTS. 
+
+➣ I make small donations to Debian every few years through Software in the 
+  Public Interest Inc.  Do you get a share of that?  If not, I note that your 
+  donate link here: https://wiki.debian.org/LTS/Funding  is for corporate 
+  sponsors and the donations are consequently corporate-sized, ie larger.  Maybe 
+  consider a simpler one-off donate link for non-corporate users to contribute?
+
+➣ Help on fixing infrastructure bugs (but very importantly in cooperation 
+  with the responsables for those systems). There are for instance those issues:
+   https://bugs.debian.org/796095
+   https://bugs.debian.org/817285 
+   https://bugs.debian.org/817286 
+   https://bugs.debian.org/823820 
+  Consider doing point releases for LTS itself and hand in hand with that, batch 
+  more issues together or, do not rush uploads DLAs for a single non-DLA worthy 
+  update (again this causes users to need to update even if the issue is minor)
+  Consider as part of LTS work perform as well updates for instance in point 
+  releases for the non-LTS release.
+
+➣ detailed version control of packages (e.g. several versions of packages 
+  like php or mariaDB to choose from)
+
+➣ Good 
+
+➣ show must go on :-)
+
+➣ 1 problem, and that would be for security updates to be available faster :)
+
+➣ All updates should be peer reviewed, rather do fewer updates with higher 
+  quality focused on impactful vulnerabilities.
+
+➣ Quite frankly, I think Debian should abandon LTS and concentrate on future 
+  and current releases, let Ubuntu (a company that pays it devs) take care of LTS
+
+➣ Keep up the good work!
+
+➣ Have a better overview (dashboard) with the status of different packages.
+
+➣ It would be better if it was part of the Debian project officially 
+
+➣ No
+
+➣ More visibility about LTS and its difference to oldstable. 
+
+➣ Keep going. Maintaining lts is hard but it's necessary. Do not get dragged 
+  into the lie of everything needs to be new. Software that works is the
+  foundation of so many things. And we need to trust our OS to be there for us. 
+
+➣ Thankt you very much! :-)
+
+➣ For my own projects testing/unstable (or at worst recent stable) are 
+  appropriate, though I am glad that LTS exists for those that need it.
+  Answering to Q14 below, to a random friend or colleague I would recommend 
+  testing rather than stable (nevermind oldstable), particularly for desktop 
+  installations.  The people I am in contact with tend to be developers who 
+  benefit from access to latest versions. But if I were speaking to a colleague 
+  who specifically needed long term stability in their server and software 
+  versions, then it would make sense to recommend LTS rather than testing.
+
+➣ It would be nice to have 10 years of support similar to RHEL/CentOS.
+
+➣ Keep the good work.
+
+➣ None.
+
+➣ Keep up the great work!
+
+➣ Thank you! Keep doing what you are doing.
+
+➣ More support for recent drivers/ hardware
+
+➣ Information on point releases and how to best contribute security fixes 
+  etc. At the moment, I'm only supporting Debian LTS after being prompted by 
+  release managers.
+
+➣ 1. provide more easy to use Debian Installer
+  2. merge some fixed bugs from LightDM
+  3. install some required utils and hardware driver by default
+
+➣ Longer support
+
+➣ Same stability but more recent versions.
+
+➣ i guess i could live with a rolling release.
+
+➣ Even longer support, something like CentOS
+
+➣ None
+
+➣ Keep on keepin' on!
+
+➣ Keep going with the great work.
+
+➣ More sharing with debian stable. I have the impression that some updates 
+  are only available in LTS
+
+➣ In addition to being able to skip releases when upgrading, I suggest 
+  figuring out a way to identify more recent software versions installed not via 
+  Debian packaging systems (such as SNAP) and converting them into the 
+  corresponding Debian packages when the upgrade happens at last.
+
+➣ Please keep up the good work
+
+➣ Please keep rocking ;)
+
+➣ Keep offer it. Extend it. 
+
+➣ None
+
+➣ Good work and thanks!
+
+➣ none
+
+➣ to be more promoted in and out of Debian
+
+➣ I wish it continues to give me all the more reason to recommend Debian to 
+  others 
+
+➣ Please continue the great work
+
+➣ See the LTS suites on the package tracker
+
+➣ Backporting could be a bit more seamless
+
+➣ Keep the good work!
+
+➣ Stronger promote users  to update to stable.
+
+➣ A name change to something that more accurately represents what the project 
+  is would be the most positive thing I could suggest.
+
+➣ THANK YOU DEBIAN DEVELOPERS!!! THANK YOU DEBIAN PEOPLE!!! THANK YOU DEBIAN!!!
+
+➣ I would like it if the installer images had more server/enterprise focused 
+  package on it by default, like vlan and ipmitool
+
+➣ I only heard of it in debconf19, and, because I appreciate the business 
+  model (which is somewhat far from corporate business), I'd be happy to see more 
+  friendly parties joining the funding of Debian LTS. What I mean is, I would 
+  like to see it look more attractive, with a more modern webpage (instead of the 
+  wiki, which is fine for Debian community but not so attractive to 
+  non-developers (just a guess, I wouldn't know how to prove my point)). The 
+  videos are fine. :)
+
+➣ introduce  HWE kernel like Ubuntu.
+
+➣ Thanks for providing the service. Even if I don't use it right now I may 
+  get my company to use it in future (instead of Ubuntu).
+  I read question 14 as recommend if they can't upgrade easily (instead of prefer 
+  to upgrading).
+
+➣ You are doing a great job.
+
+➣ I think I know how much of a drag LTS is, but if I could have a wish, it 
+  would be more backports to LTS versions, and generally the ability to install 
+  several versions of things in parallel - eg. starting with two different 
+  versions of glibc and OpenSSL.
+
+➣ I have none.
+
+➣ Actually I am not using Debian LTS, as I just upgraded all my systems after 
+  some hardware fixes, but I was using Debian LTS before these hardware problems.
+  I wish that Debian LTS has a long live, as I am pretty sure that I will have 
+  Debian 10 running in my computers for long time as I did with Debian 8, 
+  upgraded to Debian 10 a couple of months ago. 
+
+➣ Try to track kernel updates a tad more often....
+
+➣ Please incorporate some of the backports, maybe dropping the older version 
+  if it's too hard to maintain both.
+
+➣ Thank you very much for your efforts, it is very much appreciated.
+
+➣ I don't know how to solve my problem in 12, but it's a lot of pain for an 
+  open source maintainer.
+
+➣ I mostly do not think about updates. That is what I prefer. So please keep 
+  that up.
+
+➣ Debian LTS should pay and manage their own infrastructure.
+
+➣ I think it's important to ensure that security updates still go out to LTS 
+  users. Thank you! 
+
+➣ Keep going!
+
+➣ N/A
+
+➣ Please test packages thoroughly and post DLA notices in good time.
+
+➣ Better website and publicity
+  Maybe a website or guidance for users of small businesses to help them set up
+
+➣ Keep on good work
+
+➣ Integrate into the stable release/security team.
+
+➣ Thank you for existing! I read that Debian LTS was created originally for 
+  corporations. I hope the project can modify that perception so more 
+  individuals, families, and non-profits learn about Debian LTS. It is an amazing 
+  system for people who want something stable and secure but lack sysadmin 
+  resources.
+
+➣ Longer lifetime -- with tiers.  No one uses old releases on desktop, most 
+  customers's servers are truly ancient.  Dropping GUI stuff fast would release a 
+  good part of tuits, while still providing a much wider coverage than ELTS.  
+  ELTS would then continue from where such reduced-scope LTS ends.
+
+➣ Unclear how to provide LTS packages on q volunteer (non-paid) basis.
+
+➣ Keep itup and thanks so much!
+
+➣ More promotion.
+  Live kernel patching.
+
+➣ just to be there.
+
+➣ Make it as easy as possible to contribute to the work of security updates.
+
+➣ Please keep doing the awesome work!
+
+➣ Remove systemd
+
+➣ Please keep up your good work.
+
+➣ Plz don't stop it. Laking lts is the reason we (and many others we know) 
+  used Ubuntu but we love Debian and wouldn't switch if not realy necessary
+
+➣ Just keep up with the very good work. It makes my life as a sysadmin easier.
+
+➣ I haven't been using Debian LTS for long enough.
+
+➣ Thank you for all the hard work that you do!
+
+➣ Keep being awesome
+
+➣ I would be very appreciated if you can extend support over 6 to 7 years for 
+  LTS, then ELTS should extend to 8 to 9 years.
+
+➣ I do not use LTS but I think it's very useful, please go on :-)
+
+➣ I'm amazed and grateful that LTS has managed to consistently secure enough 
+  resources to maintain its quality over the years.   My suggestion would be to 
+  be vary careful of any more ambitious  proposals  that might increase the 
+  workload and risk overextending  the resources available.
+
+➣ Have some automated means to check the current support status (regular 
+  support, LTS, ELTS) of a given system for monitoring systems, ideally one that 
+  works even on old systems that haven't been updated (sometimes encounter them 
+  when taking over systems from third parties as part of transferring a project 
+  to us).
+
+➣ Would like to know usecass to show its importance.
+
+➣ Keep a good balance between the packages supported and the size and 
+  resources of your team.
+  Although: the more, the better.
+
+➣ Do not move repositories to archive.debian.org
+
+➣ not exclusive LTS related:
+  improvements in announcements of releases.
+  often the releases seems to be only announced via Debian Mailing-list and 
+  happened on Weekends.
+  which sometimes causes trouble or at least additional work on Monday if one 
+  detect that anomalies are related to a debian release from the weekend.
+  these announcements should be sent earlier and better spread on other 
+  communication channels then only a Mailing-list.
+
+➣ promote it more
+
+➣ Thanks and please, keep on rocking!
+
+➣ I do not use LTS, but I think LTS is very important in order to defend 
+  Debian against other OS in my organisation
+  Manager or hostile peoples always use the argument of the support in order to 
+  dismiss Debian.
+  For info, I do not use LTs, because I can afford to always use the latest 
+  stable Debian on my computers.
+
+➣ keep security patches in whole LTS cycle for all packages if at all possible
+
+➣ It has been a great project which I believe has allowed Debian to do 
+  frequent releases whilst still offering long duration for a stable platform.
+
+➣ Backport key software only
+
+➣ Longer then 5 years would help many corporations who just need security 
+  updates and are not able to upgrade immediately.  Making ELTS default would be 
+  great
+
+➣ Even longer support times would be great (wishful thinking).
+
+➣ maybe I missed it, but it would be nice to have a way to check quicky how 
+  far behind LTS is in terms of security upgrades (wrt. stable). That would be 
+  helpful when I suggest using LTS instead of going RedHat/Centos/Ubuntu by 
+  default because it's supported.
+
+➣ Stay alive! :)
+
+➣ Options for more current versions of applications.
+
+➣ I'm happy you all are supporting an LTS release! So far it's been really 
+  straightforward to use. Again, thanks!
+
+➣ Some upstream projects seem to churn frequently, eg. salt. There needs to 
+  be a way to have an intentional variable uptake rate mechanism to compensate.  
+
+➣ Please keep it!
+
+➣ keep going
+
+➣ Just keep up the great work and please know it's greatly appreciated and 
+  provides huge value :-)
+
+➣ LTS is for users, not for developers. But Linux was created for users first 
+  and foremost. This is easy to forget these days.
+  Consider paid model for ELTS - e.g. via staggered updates availability => 
+  patches to be available initially only to paying subscribers for a modest fee 
+  and release widely only after a set delay (say 30 days).
+  This would ensure the primary benefactors from LTS - i.e. organizations - 
+  contribute to it financially while casual non-server-use hobbyists will not be 
+  affected as they generally do not need latest security patches on day1.
+
+➣ Expand to other fields while keeping the overall theme of user rights as 
+  your main motivation
+
+➣ More Transparency
+
+➣ Of course part of me wants LTS to run even longer, but I want that to be 
+  balanced out by other needs for Debian and the complexity to provide security 
+  updates for old packages.
+
+➣ Simple and safe upgrade to next LTS.
+
+➣ Keep it going! :)
+
+➣ It would be good if there were a notification channel for LTS updates, so I 
+  could follow what's coming.
+
+➣ Overall introduction of never software versions should go faster. Indeed 
+  this is the trade off of long-term support, but Debian should find a way to 
+  integrate upstream updates much faster.
+
+➣ Keep as it is. I want to thank everybody who make LTS/ELTS happen. Working 
+  as sysadmin of a small company with limited resources LTS/ELTS provides 
+  increased flexibility that helps in long-term server infrastructure planning.
+
+➣ keep up the good work
+
+➣ Keep up the good work, I guess ? Perhaps try to increase the projects 
+  visibility, to improve make the funding model work even better.
+
+➣ backports for key packages like letsencrypt would be very, very useful
+
+➣ More tranparency about the fixed bugs and those which can't be fixed and 
+  which packages are not supposrted anymore.
