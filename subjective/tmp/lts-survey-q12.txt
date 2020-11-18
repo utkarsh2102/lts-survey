@@ -1,0 +1,1196 @@
+﻿Why do you use LTS?
+===================
+
+➣ It is very very stable
+
+➣ To get more stable
+
+➣ Legacy systems which function fine and have no new requirement, there's no good reason to upgrade if we can avoid it. When we know a system will be decomissioned within the LTS timeframe.
+
+➣ To feel safe on production environment and not to risk it with version upgrades
+
+➣ I didn't have time to update my servers to Buster yet.
+
+➣ For platform stability. 
+
+➣ I'm still using Stretch on my employer-provided laptop, mostly because of inertia. Stretch works very well on this machine (Dell Latitude E6530) and I haven't had any problems ever since I installed Stretch a few weeks after its official release. I'm trying to avoid spending the time upgrading to Buster because i'm expecting to be provided with a new laptop (the #6530 is more than 6 years old, I think) and would have to go through the process again.
+  As far as I know I'm the only Debian user in my organization, so I can't rely on our IT department for support. The utter reliability of Stretch/LTS is essential to me being able to keep using Debian at work.
+  On my various home machines I've updated to Buster a long time ago. I've started using Fedora on my newest laptops because I need newer kernels than available in Stable, fractional DPI scaling is supported there, and my experiences with Testing and Unstable have been mixed. Look forward to migrating back to Debian with the next Stable release, though
+
+➣ To do not have to full upgrade system of old machine
+
+➣ Some packages have been dropped from debian stable so upgrading is not possible at the moment.
+
+➣ Because not all systems can be upgraded to a newer release when security support stops.
+
+➣ Longer upgrade cycle for servers.
+
+➣ To avoid inconsistencies of the software used with the OS.
+
+➣ Too much work to update some machines and LTS gives an acceptable security trade-off.
+
+➣ IS STABLE !
+
+➣ Some web services I provide can't be used on the last Debian.
+
+➣ I use Debian for working so I need a stable OS I can trust.
+
+➣ Allows us to maintain a supported os/application combination for longer cycles before updates/rebuild/regression
+
+➣ It allows me to upgrade my systems less often, which saves some time and uncertainty. I don’t usually need recent technologies, only security fixes. Not that Debian version upgrade is messy, it usually works well with me, but still takes time and sometimes small stuff break.
+
+➣ Servers were stuck on jessie due to a 3rd party package.
+
+➣ Need to maintain Debian servers for a long period.
+
+➣ because of lack of time to continuously upgrade platforms. I like to have spare time.
+
+➣ If I leave the project or company, I know they will not be upgrade or maintain like me, so I'm outsourcing the maintenance to the Debian project. That simple.
+
+➣ Because it’s most stable then others
+
+➣ I use software that depends on certain debian versions.
+
+➣ No need to update when official support ends.
+
+➣ Due to quick upstream development and incopabilities, which are introduced in almost each new software version.
+
+➣ Because the customer is always scared of updates, although it always worked out well since debian is used.
+
+➣ Yes
+
+➣ I came from Ubuntu and got sick and tired of stuff breaking and being unreliable/unstable.
+
+➣ I need stable system, where I feel myself comfortable.
+
+➣ Stability and compatibility with hardware. Debian 10.4 could still be more stable. Libre Office may crash when you embedd fonts. EXT4 needs some fixing, f2fs is not yet ready for root. Sometimes 10.4 may freeze. Rebooting may hang (every second boot). Some network apps are outdated and do not work in modern Internet (Smtube/Smplayer), ffmpeg has a nasty bug so mpv may not start to play radio stream and hang, security is abyzmo (vide: FF: security.ssl.requriesafenegotiations and security.ssl.treatunsavenegotiation as broken is set in FF to no. WTF? Are we still HeartBleeding?? OpenSSL has a shitty code and may potientially be unsecure- LibreSSL has much, much, much cleaner code. Live versions have 4 terminal and asian languages. There are no FONT RENDERING WHATSOEVER. WTF. 21st century and still WTF! The list goes on and on... not to mention systemd POS (give me runit!) and geoip and similar dependancy. And KDE Plasma is not on LTS and has many bugs. GTK 3/Mutter is on extreme old and buggy version that skips frames and is useless with its multiple clicks and laggines. And that is the default. POS all the way. Fix it. And make some themming finally (light ones), because branding matters. You can even have a decent wallpapers, xfce crashes when you type 'CET' as your timecode, there's absolutely no SyncToVBlank and the desktop is tearing  (Intel) and video is tearing too. There's confusion with two Intel drivers and gmm library is missing as dependancy (either for intel driver or gst-vaapi or whatever, but its not pulled down). Oh my fix all of these!!!! And start using it as your daily driver, because I do doubt you do it now! No font rendering is an indicator. And a good one too. No wifi drivers at all. No connection. One piece of shit.
+
+➣ sometimes for external reasons i cannot upgrade to the new stable release when it is released
+
+➣ For our company's servers.
+
+➣ I primarily use it on servers because of its rock-solid stability and security.
+
+➣ Developing embedded software in a stable development environment.
+
+➣ Stable System, running in the long term
+
+➣ Because of application-update-problematic systems.
+
+➣ I feel that, I don't need the latest versions packages but a stable ecosystem that I can keep for a long time.
+
+➣ less pressure in having to forcefully migrate to a new major release asap
+
+➣ -Stability
+  -Legacy servers that don't yet need to be replaced
+
+➣ because of older software in productive systems
+
+➣ delaying use of système as much as possible
+
+➣ Stability. I got sick of things breaking on updates and being broken in general on Ubuntu. During an update something broke and that was the last straw. I just want stable software that actually works. I don' tactually need the bleeding edge software, except for some development tools, which I always install through ghcup-hs or the Docker website's recommended way, anyway. Again, stability and reliability is far more important to me than the latest features. Also, I use this on my laptop AND my server for these reasons.
+
+➣ I want stability and no sad surprises.
+
+➣ We use LTS on our data acquisition systems, which should run for a long time with a identical os.
+
+➣ More support and more stable distro.
+
+➣ For extended support
+
+➣ Updates at $work with custom-developed software always take a very long time
+
+➣ I have hopes it keeps running as the installation day without a lot if attention.
+
+➣ Reliability
+
+➣ The reasons can change but in general 1) something about the previous release is working better for me (or something isn't working well in the new release) and/or 2) I haven't had time to screen/test/build the newest release and/or 3) the person using the LTS struggles with change and they need more time to learn/adapt to some changes that were made to the new release. 
+
+➣ I want to postpone update of OS-es as long as possible
+
+➣ Lazyness, software package constraints (old applications that for instance only run on outdated PHP versions etc.) or general customer wishes.
+
+➣ I had an ARMv5 (TS-7800) box what i switched to x86 in last december. I we planned that switch long time ago, but the armel version of the Debian LTS gave one more year to the machine. Why keeped it on LTS? I don't know anyone who runs up to date Debian on that aging hardware, and not to easy to migrate between versions. Because it's my home server, switching to x86 makes it more future proof. I don't have any plan to use LTS in the future.
+
+➣ No time or too difficult to upgrade every computers 
+
+➣ stability
+  safeness
+
+➣ I like predictability. I like stability.
+
+➣ old-stable sometimes works better than stable.
+  Don't have time/resources to keep all systems (personal as well as from customers) being on the recent stable release all the time.
+  Distribution upgrades are sometimes considered only with purchase of new hardware, which have lifetimes/turnaround cycles of >=5 years.
+
+➣ Issues with commercial software causing conflicts during upgrade to newer versions
+  On Raspberry class computers to avoid upgrades (in form of installing the newest version, as normal upgrades are usually problematic or the specific distribution for this device vanished, like Bananian)
+
+➣ Does what I need it to do and I did not need to update.
+
+➣ lack of time
+
+➣ regressions.
+  after debian8->debian9 upgrade on my xen host icmp redirect does not work as before
+  after debian9->debian10 upgrade i can't connect to xrdp host via ssl as before
+
+➣ Stability
+
+➣ Having the option to upgrade later is really helpful to manage tasks efficiently.
+
+➣ We don't have resource to check and upgrade 
+
+➣ Debian’s stability
+
+➣ too lazy to do a dist-upgrade
+
+➣ Don't want to recompile old working custom software.
+  Don't want to rewrite php5 software for php7.
+  Don't want days of downtime for my website which serves 1M+ people a month when my database breaks on new distro.
+
+➣ for its stability
+
+➣ Mainly for my raspberry pi 4 8gb and any other raspberry pi that may release in the future 
+  i like raspbian lite now called raspberry pi os lite i use the rpi4 as a local storage and having a base terminal available allows me to do any updating or maintenance such as making new folder directors or solving a ssh problem 
+  if it was rolling i'm pretty sure i would run into way more issues even with the base terminal i like my distros to be stable and maintained if that means LTS is good for that then so be it 
+
+➣ Personal servers (coding, learning, geekeries) & Pro web servers.
+
+➣ for my NAS
+
+➣ I work with web design and web systems development, using lamp on Debian Buster. Debian has a tradition of being light, fast and stable. I have been using Debian since version 2.2 Potato, and now in my company all machines use Debian Stable. Debian is the Power ;-)
+
+➣ Can rythm migrations more easily
+  Security and support
+
+➣ Far fewer service and (human) process disruptions
+
+➣ It is not always possible to upgrade all servers in time (especially when running 3rd party software, that doesn't support recent Debian versions)
+
+➣ Stability on system, and not having to worry about an upgrade. 
+
+➣ I am running LTS on my homelab server where high uptime is more important to me than cutting edge package versions.
+
+➣ No time to perform to plan and perform the upgrades of all affected systems.
+
+➣ Sometimes its inconvenient to change a soon out of life system (business wise) to the next stabke release, so I deinstall and lock down the limbo system. LTS spared me lots of backpatching headaches by providing fixed packages.
+
+➣ I believe it is stable, reliable & secure.
+
+➣ legacy apps.
+  no time to upgrade from release ...
+
+➣ stability, security updates
+
+➣ To avoid having to upgrade deprecated services while still receiving security updates. Usually the extra time allows for decommissioning.
+  Occasionally for services that are almost completely maintenance free. 
+
+➣ Two to three years is much to short in a professional environment. We have lots of servers and applications relying on Debian as the base os. I love the easy upgrading to a new version, but the application maintainers can’t upgrade every 2-3 years with the normal lifecycle. 
+
+➣ Little upgrades (i.e. apt-get dist-upgrade) don't break anything, big upgrades (i.e. next release) are on a somewhat predictable schedule. Newer packages from testing can usually be mixed in via package pinning. 
+
+➣ Long Running Server
+
+➣ I use Debian 10 stable, and it makes me comfortable to run system which I know will be supported for longer time period - eg. until next stable version. I am a basic end user of Linux - without deep computing knowledge.
+
+➣ Stability, productions. 
+
+➣ Too lazy to upgrade
+
+➣ I find it more efficient to set up a new server every 4-6 years than to update a server every 2 years.
+
+➣ I run it on some fileservers that I don’t want to have to upgrade too often since there are likely braking changes between versions which takes time to figure out and fix. 
+
+➣ sysadmin, lack of time/resources makes it hard to upgrade systems in time
+
+➣ I want a static, predictable system for as long as possible. 
+
+➣ I use LMDE 4 so Debian 10 LTS stable
+  Is solid like a rock no problem have a big community for help
+  I use for game devlop and Unity3d with debian match good the problem is the old version for blender and other old package
+  I am 15 year old 
+
+➣ Lagging in upgrade, single admin of 80 servers.
+
+➣ It's stable and I'm used to it.
+
+➣ Support
+
+➣ Stability, just works combined with low need to update to next release means less man-hours.  I use it for my workstation because and for my vps because debian is more lightweight than Ubuntu.   For my laptop and media center I use Ubuntu.  
+
+➣ Some software vendors requiring older libraries, compilers, (java) runtimes...
+
+➣ I'm running a web and mail server. I like that the software never changes except for security patches so that I can be relatively certain that it will just keep functioning
+
+➣ for customers internal systems 
+
+➣ For work (hosting).
+
+➣ Old hardware
+  Stability
+  Preparing the migration
+
+➣ stability, no errors
+
+➣ I prefer stability in my home data server and the familiarity for hacking and learning on a home lab. 
+
+➣ Because of the stable package releases.
+
+➣ Because it works as advertised.  
+
+➣ When the system was installed debian 8 was the stable choice
+
+➣ Because I can not force my colleagues to upgrade faster.
+
+➣ My wife insists to stay with Stretch.  I tried Buster and moved from that to Slackware.
+
+➣ I use it to maintain some old website not compatible with last version of PHP.
+  I also use it on Xen hosts, hoping hardware replacement before needing upgrading. For that 5 years is not enough but it reduces number of upgrades.
+
+➣ There are 2 reasons:
+  - It is deployed and works. If it ain't broke, don't fix it.
+  - Lack of time to update to next releases.
+
+➣ I find it too hard/risky to do big upgrades to newer releases. Stability is much more important to me than new features.
+
+➣ I selected it because it supported to software I needed for school (mariadb, java 8, python 7, perl) 
+
+➣ For the long term support from a security standpoint, it let me more time to upgrade all my servers to newer versions.
+
+➣ Because it keeps some servers running securely without having to upgrade reinstall.
+
+➣ Becquée of stability 
+
+➣ Because I can keep more time the installed servers on production wihtout reinstall.
+
+➣ I administer and maintain servers on behalf of a variety of clients, and some are slower at keeping pace with new versions than others.
+
+➣ Because I like things running smoothly so I prefer long term updates support. I don't like upgrading because usually it breaks up things.
+
+➣ Mostly for security reasons
+
+➣ Stable production environment is required. 
+
+➣ Because it is here and it leaves more time between two major upgrades.
+
+➣ Because it has a longer support time than no-LTS and I'm scared of upgrades.
+
+➣ I don't need the newest packages and having the utmost system stability makes it extremely dependable.
+
+➣ Because I cannot upgrade all my servers on time before official DSA support ends.
+
+➣ Have stuff that is a pain to upgrade, it's great to still get security support
+
+➣ Because two years is to fast for upgrading hundreds of Debian servers...
+
+➣ Because I'm too lazy to upgrade to newer versions of Debian in a timely manner.
+
+➣ MX18.3 is based on it
+
+➣ The development team at my workplace places a relative low priority on moving from a working OS to a new version of a working OS. I am attempting to motivate them.
+
+➣ Business user.
+
+➣ To provide a consistent & stable system while I complete a university degree.
+
+➣ Because I maintain several critical systems and thanks to LTS I have the freedom to keep the systems in their current state as long as possible while preparing for an eventual upgrade. And I have the option (excluding kernel upgrades) to not have to bring the systems down.
+
+➣ For increased stability and predictability.
+
+➣ It works.
+
+➣ Because some applications do not support newer versions of debian (yet)
+
+➣ We need the extra time to get our applications updated to new libraries and our fleet upgraded
+
+➣ Helps postpone upgrades for for customers with small budgets or dependencies on old software versions .
+
+➣ My customers wanted longer support than Debian did before LTS (i had to install Ubuntu lts or centos because of that). Since Debian LTS i can provide them ~5 years of support which is good :)
+
+➣ I have Odroid HC2 with OpenMediaVault 4.x which is build on Debian 9.
+
+➣ It's Stable.
+
+➣ Stability and security.
+
+➣ upgrades need to be plan out or at least have time to deal with things going wrong, so using the same debian for longer
+
+➣ Sometimes some usecases prevent an upgrade to the next stable version in time, therefor LTS helps to lighten the transition.
+  The continued security support helps a lot!
+  (Thanks to team for the effort to provide LTS to debian!)
+
+➣ to avoid dist-upgrade anxiety
+
+➣ Because LTS maintenance
+
+➣ A machine is deployed with a version of Debian and if that version is supported, migration to a new version is not done if the new features are not needed.
+
+➣ Becose proprietary applications usage old libraries.
+
+➣ I don't have time to upgrade all servers during regular support.
+
+➣ Using LTS on my home server. Everything is set up back when I had free time, now having a job, kids, other hobbies, it gets harder to keep up with updated releases. So a slow ring like LTS really helps here.
+
+➣ I cann't /  wann't all servers upgrade to latest Debian.
+
+➣ My OpenVZ VPS has an old kernel, that is not upgradable.
+
+➣ need longer support on servers
+
+➣ longer times between full upgrades
+
+➣ To minimize neccesary work on the system and keeping it up to date regarding security.
+
+➣ We use old servers with AlternC that we didn't yet migrate to recent debian version. It's an old and heavy technical burden for our benevolent team
+
+➣ Stability
+
+➣ That let's time to migrate large and application with some compatibily problem or performances problem
+
+➣ Primarily third party software which is slow to support latest Debian releases (https://packetfence.org/)
+  Also because dist-upgrades and the risks involved is not always a business priority.
+
+➣ Stability, support - updates
+
+➣ Because I can not be bothered to migrate old systems. It works.
+
+➣ stability
+
+➣ To buy some time to upgrade or phase out servers.
+
+➣ Do it once, do it properly and forget about it. Why change something that works when needs haven't changed? In the context of a ten year old fileserver, the five year installed system does not look like a long time. Debian is universal enough for both desktop and server, and live is too short to endless troubleshooting with new versions of a system. The few things I need to have the latest version can handle /opt and rest of the system no need to change too often, if ever. I appreciate the hard work of people who constantly improve the system but when they throw away thinks that you use every day because 'no one use it' then... yes upgrade from Debian 9 on desktop will be paint full.
+
+➣ stable system, less upgrades, allows skipping one major version
+
+➣ you do not have to reinstall frequently  the OS. Reinstalling the OS and finetuning are a lot of work.
+
+➣ We develop embedded software which needs long-term support. Debian is the only distribution with an LTS support that can also be downsized to fit our embedded device constraints. In our case, frequent migration to newer Linux versions and re-validation of the whole product is costly, and keeping the updates to a minimum (security fixes, mostly) helps a lot.
+
+➣ Longer server life.
+
+➣ Use LTS on production servers. It allows me to use a secured system during a long time without install new version too frequently.
+
+➣ Some customers are unwilling or unable to migrate their apps to newer versions of LAMP (PHP being the main issue.)
+
+➣ Avoid dist-upgrading host that will be decomissioned before the end of LTS life.
+
+➣ Because I have Debian on my server.
+
+➣ Other projects do and I need to replicate same software versions of dependencies
+
+➣ Debian lifecycle is too short for server deployment. LTS ensure longer support.
+
+➣ Simplicity, no question about stability, high level of QA
+
+➣ chaintool compatibility for the ongoing projects
+
+➣ Sometimes its not convenient to upgrade a system before security support ends. So I use LTS as a way to keep those boxes going while I find time for upgrades.
+
+➣ 1. For Wheezy LTS - reason was the presence of SystemD in Jessie, because SystemD was not ready for production use at the time.
+  2. Sometimes I have to maintain servers with older versions of services than are available in the current release.
+  3. A conservative approach in the transition to new releases.
+
+➣ Some servers can not be updated fast
+
+➣ because sometimes we don't have enough resources to upgrade in a timely manner.
+
+➣ I have prepared and customized debian system for my routers.  I dont need everyday update, but stable system for years. Sometime i change kernel for new hardware or features, but need to have system. First i did on lenny and after few years on stretch. After 5 or 6 years i update system to newer Debian.
+
+➣ less maintenance on server
+
+➣ It lowers the frequency oft dist-upgrades for the Debian systems I maintain.
+
+➣ We don't have to upgrade to next release. 
+
+➣ Expected stability, provided support
+
+➣ No need to bother sith dist upgrade
+
+➣ I'am need 4-5 year support.
+
+➣ To keep a little server up to date.
+
+➣ To be honest only reason is I was too lazy to upgrade my remaining installations to stable...
+
+➣ So I know the distro will be supported for a reasonable time
+
+➣ Because I have no time to upgrade my laptop properly - this needs backups, time for unforeseeable problems, etc.
+
+➣ Not having time and energy to go through the full upgrade, esp. if eveything just works
+
+➣ It is rock solid: I never have to worry about anything breaking. 
+
+➣ Super stable
+
+➣ Stable OS for BFU
+
+➣ Long term product support for industrial systems
+
+➣ I've a lot of servers to manage with critical services. I can't upgrade just for fun.
+
+➣ Stability
+
+➣ For servers that I don't have time to properly upgrade or that I'm afraid to break, I use LTS to get support for at least some packages.
+
+➣ I have refresh cycle ~5 years, 3 years + 2 years of LTS makes it up.
+
+➣ Sometimes custom applications - in house developed normally - running on Debian are complicated to upgrade, or their upgrade schedule is delayed beyond the scope of the EOL of the regular Debian release schedule. In such cases Debian LTS is important, and not having LTS would have forced us to use another distribution on our servers.
+  We had one such server running Wheezy LTS right up until 2020-03-01. In that case Debian LTS proved to be a very valuable service. Thank You!
+
+➣ I manager a lot Debian servers and have no time to upgrade all servers to latest release.
+
+➣ To keep running Debian version updated until upgrade.
+
+➣ My system works just fine...:)
+
+➣ I love it : )
+
+➣ because the software running on my debian isn't buster ready yet
+
+➣ I use LTS when I know that the service I want to provide based on this system will have very few evolution ; when I don't want to have to worry to maintain the underlying system.
+
+➣ Using (E)LTS on a distributed/hosted VM, which can't be updated without complete reinstallation of all installed software/webpages/systems.
+  No in-place-update of that VM is supported by the hoster.
+
+➣ Stability.
+
+➣ For the sake of stability.
+
+➣ Extremely stable. Convenient.
+
+➣ Because I am lazy to upgrade.
+  Because main Debian dropped support for i586.
+
+➣ Continuity, stability
+
+➣ Short support for stable mainline.
+
+➣ I'm working @ an hosting company and some of our customer have strong adherance to old software for their Web platform, so LTS permits more time to prepare to the next Stable.
+
+➣ For great stability and security.
+
+➣ I can't afford to upgrade my servers every 3 years. 5 is barely acceptable so 3 is out of the question. I learnt with Debian, that's why I'm using it but I'm considering CentOS for its 10 year support.
+
+➣ Stability, minimize the number of changes to my network and connected computers.  Plan to upgrade from Stretch to Bullseye once it becomes testing.
+
+➣ We prefer stability of our OS platform.
+
+➣ Running stable system on unusual hardware
+
+➣ Because upgrades are not possible in every situation.
+
+➣ I have one system that performs a critical function, upgrading to new stable is too risky until a contingency plan has been developed. 
+
+➣ I'm an average user, and I try to convince people around me (family and friends) to use GNU/linux instead of Windows. I've already convinced around 20 people, even if I consider myself as a noob; they consider me like the techie guy. I install and administrate their OS; as normal users they just make the normal update. So, I'm always looking for Debian LTS, and derivatives, because my goal is to offer an OS as stable as possible, those people don't care about the new features; and I have to prove that GNU/Linux is good for their use (they are always afraid to quit windows). And by the way, I don't want to install or make major updates every 2 years or less.
+  Personally, I love FLOSS software in general because I can trust them, I really care about privacy. 
+  Another thing, I'm a volunteer in an humanitarian association (little medical one) and I'm in charge of reconditioning old computers, to equip small dispensaries in poor countries; and sometimes to help students of poor families sponsored by the organization.
+
+➣ Running enterprise servers that require stability 
+
+➣ I do not directly use LTS with any regularity, but as a member of the cloud team, I am interested in supporting cloud users who are using LTS. By some metrics available to us, stretch remains more popular than buster at this time, and even if that is not the case, it is still demonstrably quite popular.
+
+➣ Server requiring high uptime, and stability.
+
+➣ To run stable infrastructure servers.
+  Still preparing  for upgrading them to current stable release.
+
+➣ Because of support of older versions of libraries and tools (Ruby etc.) that we use in production. LTS gives us very stable and reliable environment. 
+
+➣ Increase lifespan of systems, reducing frequency of major upgrades, freeing up time from my team who would otherwise have to assess and backport patches to old systems manually.
+
+➣ Forse me in very simple 
+
+➣ my company provides webhosting and VPS and I manage some desktops for people who do not require the latest version
+
+➣ stability
+
+➣ There are several reasons for that.
+  1. The customers of the company where I work prefer to upgrade as rarely as possible, thus our environments are stick to Debian 8.
+  2. At home there is another situation. Due to superposition of factors I use Gnome desktop environment. And Gnome gives some PITA every Debian release: Wheezy introduced Gnome 3 with the application grid based on categories. Jessie took away categories and introduced software groups. Stretch had a default theme, which was simply ugly. Buster removed tray and desktop icons as well. (And yes, three of 4 default desktop themes were gray).
+  Getting back to the point, overcoming all of this takes time, so I would prefer to upgrade not so frequently.
+
+➣ best of the best
+
+➣ I want to have few stable servers running for a long period where it is most important to freeze some package versions (database version for example) instead of migrating at a more frequently rate the data.
+
+➣ In Windows, it is perfectly normal for a version to have ten years of support or more.  This gives time to refine the system and improve manufacturers' support.  On the other hand, in Linux each version has a shorter life cycle than that of the fruit fly.  The Rolling-Release versions, in particular, are broken toys that belie Linux's security and reliability.  Debian is one of the few distros (along with Ubuntu and CentOS), which provides some additional support, to make the system reliable in the long term
+
+➣ Limited requirement due to unsupported binaries
+
+➣ It's for my parent's computer. Just email and documents, low maintenance time cost.
+
+➣ Because I don't want to migrate to Buster yet. For example Zabbix doesn't work properly on Buster.
+
+➣ Allowing slower upgrades of machines.
+
+➣ I am a software developer and love to use only well tested software only...
+
+➣ I can't upgrade beyond Debian 9 because of OpenVZ.
+
+➣ Stability and consistency. I'm sick of things changing for the sake of change. I trust Debian to provide a stable and secure environment. 
+
+➣ incompatible libraries in new stable releases
+
+➣ for fast, stable, and primarily original experience
+
+➣ We have a lot of VMs at work that need to be kept up with security updates; often these replicate a setup a customer has, so we cannot simply update; in other cases, updating is sat out until +2 releases to keep disruption low.
+
+➣ High stability and reliability. Most of the system just works. Time spent doing actual work is much higher than mantaining the system. Also no worries that my system one day breaks and all my data is lost (I make backups though). 
+
+➣ I generally have high trust in Debian that I can have unattended-upgrades running, do a manual full-upgrade and yet have a extremely low chance that I am forced to do real unplanned admin tasks. This allows me to have ~50 Debian servers running in our small company with minimal effort and I am able to do other projects in my worktime.
+  Most of the software we use on Debian does not need the newest features, it just needs to work and get security updates. In general there aren't many big changes in our infrastructure. In my situation this leads to a scenario where the biggest time sinks (in relation to total administration work) are the dist-upgrades to new Debian major releases. LTS halves these, so it saves me (guesstimated) one third of my total debian administration time.
+
+➣ Old code at work that would need to be refactored (usually we're slow to migrate/adapt to new Debian versions).
+  We try to maintain all our systems in Debian stable but sometimes one or two of our servers gets behind the pace.
+
+➣ Longer support, taking away the pressure to quickly update to the current stable
+
+➣ Extended security support. Extended server lifetime.
+
+➣ LTS enables me to keep multiple servers active without the hassle or concern of regularly upgrading.
+
+➣ For many of our servers we have no need or desire to upgrade them as frequently as the Debian project's standard support would require. Major version upgrades, although much smoother with Debian than many competing distributions, always entail some element of work. Therefore there is a time saving in sticking to an older version for longer, either skipping versions when the time does come to upgrade or making it more likely that the server gets retired before the work ever needs carrying out at all.
+
+➣ desktop computer and server (physical ans virtual machines)
+
+➣ Stability
+
+➣ Upgrade is to costly
+
+➣ Debian's release lifespans are relatively short, and we have a large infrastructure that takes a lot of time to keep up to date.  We basically skip every other release for large chunks of our infrastructure and depend on LTS to keep us supplied with critical security patches.
+
+➣ My clients are mainly webapp developers and although I work with them to always upgrade to the latest stable Debian, I always end with some untractable issues. LTS bridge the gap for those projects which cannot keep up with OS upgrades.
+
+➣ stability of user apps
+
+➣ For stable but patched system
+
+➣ I don't know really... I installed Stretch with KDE and liked it, since it does everything I need and want it to do. Works flawlessly with Foxit Phantom PDF and also the backports LibreOffice goes along nicely with the Flatpak release, or with the AppImage one. To be honest, I didn't have the mood to upgrade to Buster, since everything is working. The DE now feels old, but that's not such a big problem. I wish I had something like this on my Windows 10 machine... 
+
+➣ There are a lot of services on production environment and the fact of update the whole system is done only when the LTS support ends, in order to avoid the risk of have offline production applications for a long time, and strictly scheduled and tested before on virtual machine.
+
+➣ to minimize the amount of rebooting machines due to kernel updates
+
+➣ To allow us time to test the newer OS before migrating. We usually like to wait until the .3 release is out before we start testing and go to production by time .5 is released. 
+
+➣ Stability and low maintenance
+
+➣ Need to upgrade systems less often.
+
+➣ Missing software in more recent Debian
+
+➣ Some old Hardware does need IT, there is No Change to get it work with other kernelversions. 😥
+
+➣ Stability
+
+➣ I prefer using an OS with support.
+
+➣ I suppose the chance of getting support seems bigger with LTS, both from debian team and community.
+
+➣ Mostly for stability reasons
+
+➣ My installations of Debian 9 are currently mainly on servers with which it performs valiantly, and there simply has not been the demand or requirement to update to Debian 10 as of yet. 
+
+➣ I like support,alote  iformation in the web.
+
+➣ It works.
+
+➣ old hardware that can't be upgraded to the current stable version because of compability reasons
+
+➣ Mainly because of slow application development, that's forcing the server to have older versions available (f. e. the move from php 5.6 -> 7). Or respectively won't work on newer versions yet.
+
+➣ Older soft that does not work on most recent stable release
+
+➣ Machines more suitable to long term support releases will generally be business machines (such as web-servers in datacentre's or servers in a workplace). These machines it would be generally disruptive to be upgrading the operating system every 6 months as opposed to every 3 years! When it is essential to keep the downtime to a minimum, time is money!
+  Generally a long term support distribution will have constant security fixes and the like to keep the system stable, but no MAJOR application changes.
+
+➣ Server security and software stability
+
+➣ Need to keep production servers in rotation for various reasons - software not compatible with newer versions, limited downtime windows (cannot bring up new server and migrate to it), unstable migration to next version, etc.
+
+➣ Stability
+
+➣ Extended support allows me to security operate my servers for a longer period of time reducing overall maintenance work and additional software development to ensure compatiblity with newer versions of the OS.
+
+➣ I use LTS ecause it is really stable and make some old app work.
+
+➣ I require stability and running the latest versions on all of my software is not a concern for me.
+
+➣ More stable 
+
+➣ I use LTS in my work because I don't around to upgrading our Debian hosts before the regular support ends.
+
+➣ Because I have had enough of distro hopping and chasing cutting edge software version. Instead I want to use a reliable and consistant system.
+
+➣ The software does everything I need, so I don't change it unless I have to.
+
+➣ Using LTS because of software that cannot be easily updated. Either provided third party (commercial software based on Debian) or customizations that have not been updated yet.
+
+➣ Stability
+
+➣ It's simple choise of operating system
+
+➣ I enjoy the stability and reliability of Debian LTS; at home and at work. Never encountered an Update that broke my system. Major Upgrades run very smoothly almost always.
+
+➣ To prolong service life of existing systems.
+
+➣ because it is available
+
+➣ Some of our clients cannot easily update their machines, we continue to provide maintenance and support thanks to LTS.
+
+➣ Generally less things break when patching and upgrading.
+
+➣ stability, maturity, performance
+
+➣ For some servers upgrades are tricky and time consuming and the old system satisfy the needs if security updates are available.
+
+➣ Older branches of the software we develop don't compile on newer Debian versions and we haven't yet found a good way to containerise everything across all the build machines.
+
+➣ It's convenient that I can be sure that my OS keeps receiving security updates for a clear period.
+
+➣ Mostly due to not having the resources, or ability to update a server as often as I would like.
+  i.e. in production, down time is expensive, engineering time is expensive, embedded system etc.
+
+➣ By comodity, for old servers which are still render services.
+
+➣ To support Itanium.  Itanium support was dropped in recent Debian. we were stuck on wheezy (still are ..) even though support has stopped.  We used LTS until support for Itanium was dropped there.
+
+➣ I use it in an old PC. Some drivers were compiled by hand to work with obsolete hardware.
+
+➣ I can run a server in a very reliable, stable and secure configuration for a long time between upgrades when things break and I have to learn new configurations and replacements. 
+
+➣ Because I like stable software that doesn't change. I don't generally need newer versions other than keeping the browser up to date.
+
+➣ I do not care for upgrading software releases every 6 months or so 
+
+➣ Customizable like Gentoo but easy to set up like Ubuntu.
+
+➣ System is stable and do not want to upgrade.
+
+➣ Most stable OS
+
+➣ Stability matters.
+
+➣ Stability, and I don't want to re-install my stuff every hour.
+
+➣ In order to keep having updates
+
+➣ Gives us more time to update all our customer systems to the latest Debian version
+  Gives our customers more freedom to stay on an older Debian version if their application running on it is not ready for the latest Debian version
+
+➣ Customer webservers with customers that are not fond of performing version upgrades.
+
+➣ secure,safety. I'm debian 10 user and it makes me very happy. I use the standard Gnome. (-:
+
+➣ I use LTS if I don't manage to upgrade a machine to the next release in time
+
+➣ I have stuff running in production that are just not moved yet to a newer versions.
+
+➣ Compatibility with old applications - namely PHO
+
+➣ Because it provides stability and confidence and I don't need so new packages versions.
+
+➣ Some systems are either too important to be upgraded to a new Debian release (sometimes with 3rd-party software requiring additional work) or not important enough to warrant timely upgrades (so they skip a release).
+  Additionally I'm often using hardware for a long time, so compatibility with older processors (Via C7, which are no longer supported after Debian jessie) is good, so I'm happy to squeeze some additional life out of these computers.
+
+➣ We are not capable of upgrading all systems within 2 years of a new stable release. Working harder to get it done but right now that seems to be not possible to happen. Still tackling some jessie systems which have to go first.
+
+➣ To ensure stability and support.
+
+➣ because currently stretch has everything i need
+
+➣ For long term stability.
+
+➣ Stability and reliability.
+
+➣ Obviously for long-term support and updates beyond stable EOLs.
+
+➣ Bad!!!!!!!!!!
+
+➣ I prefer not needing to reinstall the OS as often.
+
+➣ I'm lazy and postpone updating my machines to the next version of Debian as long as they receive security updates.
+
+➣ 'slow and steady wins the race' is better than 'live fast die hard'
+
+➣ - Lazy to upgrade to latest stable
+  - LTS is very stable and functional enough for my needs
+  - Some specific products prevent me from upgrading
+
+➣ It provides extended security support on legacy projects implemented on several institutions where I have deployed Debia.
+
+➣ If it ain't broke, why fix it?
+
+➣ Some systems take longer to upgrade and I end up running LTS until I can migrate. 
+
+➣ Stability and reliability as a workhorse.  If it's working well, I'm loath to get rid of it.  I will however not use LTS support all the way to the EOL date.  Usually sometime in the 4th year, I will switch to the 3rd iteration of Stable after it's running well.  So I used Jessie until end 2019 when I replaced it with Buster.  But at the same time I still keep Old Stable, so Stretch will co-exist on the machine until Bullseye is released and has had some time to settle down.
+
+➣ a stable platform for web apps.
+
+➣ Because in some cases machine parks cannot be updated to the stable release within the one year timeframe where oldstable is supported by regulars security support and point releases.
+
+➣ I use LTS for (Web)server applications
+
+➣ The long term support is there if I need it .
+
+➣ Because of the long support and stability. 
+
+➣ For spécial application 
+
+➣ Because I don't plan to switch kernels often. Stability above anything!
+
+➣ For stability in our datacenters.
+
+➣ We mostly run Debian stable/oldstable, but sometimes we don't manage all services in time.
+
+➣ There are many cases where the upgrade is too risky (shared hosting, unknown customers...)
+
+➣ stability and quality
+
+➣ To give me time updating my private infrastructure
+
+➣ I'm working on embedded systems, which I don't want to upgrade every other year.
+
+➣ Used it in previous company to support old servers.
+
+➣ Stable, long term support
+
+➣ The stability and not too often a major overhaul.
+
+➣ System upgrades to new Debian major releases always result in problems with some of the packages being upgraded. This is a major problem when upgrading servers that need to be up 24x7. In some cases a package is discontinued requiring migration to a different package while in others there are often compatibility or stability issues with upgrading to a new version of a package. By sticking with LTS for as long as possible, one can save time and avoid some problems by not using every new major release, as well as waiting for the current release to mature/stabilize before you do upgrade.
+
+➣ Some less used packages that we use on a server were dropped in the next version of Debian, so we didn't update. We like to rely on the stability of Debian packages as much as possible, we also don't need any bleeding-edge software, and to be honest didn't have the time to setup all the manual installations needed.
+
+➣ Production servers requires long term updates from a trusted dev team, you :*
+
+➣ Because I get security patches for a long while, without the need of a server upgrade too early and too often.
+
+➣ PHP5.6 applications
+
+➣ Stability. This means that an already perfect environment can be operated even longer without having to worry about compatibility problems due to new program versions.
+
+➣ The occasional legacy system that is too hard to update to stable
+
+➣ For users who don't like frequent change. 
+
+➣ I like the stability of features in LTS. While STABLE would fit most of my requirements, too many pieces of software change their feature in such a drastic way that having to adapt my workflow or rethink the configuration of some software every two years is not worth the trouble. LTS allows me to focus on using, rather than administering, my computers.
+
+➣ Most servers don't need to run the latest software and only having to upgrade every 4 years instead of every 2 years saves a lot of time.
+
+➣ To keep my servers running and updated without upgrading distro.
+
+➣ The running is system is pretty stable and I don't want to upgrade.
+
+➣ Security support for web servers running web applications that need more time before upgrading.
+
+➣ We use LTS as a better than nothing alternative, for legacy systems
+
+➣ Sometimes I have legacy systems there isn't quite time to upgrade just yet :-/
+
+➣ Stability and security for production servers
+
+➣ Brings a perfect balance between stability and security for my use cases. I have being able to deploy any application I needed.
+
+➣ stable fast
+
+➣ Stable, reliable, length of support
+
+➣ Depending on the usage of the server the run either testing or stable and then LTS until they are rebuild with the then next stable.
+
+➣ I tend to be lazy, so i  use a distribution as long as i possibly can
+
+➣ Mostly because clients have PHP code that doesn't work on newer versions, especially php 7.
+
+➣ Because of PHP changes it is harder to migrate than usual.
+
+➣ Running on a hostsharing platform
+
+➣ For servers that are difficult to update at the rate of distribution.
+
+➣ It is difficult to upgrade machines as fast as Debian releases them. 
+  I know it is easy to do with Debian, but when you have hundreds of machines, with different services that have subtle changes in configurations between upgrade versions and you must maintain a production quality service, it isn't so easy to just upgrade. 
+
+➣ It usefully extends the supported life of oldstable
+
+➣ I don't like to do major upgrades
+
+➣ Because it is very comfortable to keep using the same Debian version more years.
+
+➣ Extended support for the systems we did not have the time to migrate
+
+➣ Trial
+
+➣ For old servers with old applications.
+
+➣ I use LTS like any regular stable release of Debian.
+
+➣ Because I prefer stability over new features.
+
+➣ Longevity. 
+
+➣ I work for a company that still sells a product based on Lenny, Wheezy and Stretch.  Despite this aging, security is somewhat important to many of our customers.  Extended support helps keep us going.
+
+➣ Long term servers installation
+
+➣ just the time to migrate some apps into next Debian stable or oldstable.
+
+➣ Usually I use ArchLinux, but for stability there is only Debian LTS in my mind
+
+➣ It's more stable, but in home I'm starting to play with Debian Testing.
+
+➣ To get a longer life for stable, reliable servers
+
+➣ I used LTS because a vps couldn't run a newer version.
+
+➣ Need for longterm, stable platform
+
+➣ I like stable systems with littlechange in software.
+
+➣ It's sometimes very convenient not to have to dist-upgrade a machine doing one specific purpose.
+
+➣ Stability
+
+➣ Long and painful to update plenty of systems, general and major software quality problems on Buster
+
+➣ I currently don't as I don't have the need but I want to write that a lot of big corps that slowly move would use it (remember Spotify situation).
+
+➣ I use it for my server. 
+
+➣ 1. Operation of high performance computing cluster from 2011 (updated to stretch and now buster)
+  2. Requirement of libraries depreciated in buster for building LineageOS 14.1
+
+➣ Production servers that need little maintenance
+
+➣ Need to support old software that has dependencies on old OS's; old python, etc..
+
+➣ LTS contributed towards a stable environment and reduces the time required to perform upgrades and maintenance.
+
+➣ Because it helps us with management of a large number of servers to have long support
+
+➣ In a larger environment with few people to manage machines it is hard to get upgrades done within the actually required timeframe.
+
+➣ The 2y release cycle is too short for some environment.
+
+➣ We used in my previous job LTS, because the admins who were responsible for FAI cared not enough to have an up to date stable system. There was no pressure anymore when LTS came in place. We were always on oldstable once on old-old-stable. I had not enough power to convince them. I was not involved in FAI, and could not help out, because I was on another team.
+
+➣ Because my users ask for it.
+
+➣ it runs stable
+
+➣ Stability . Why risk an upgrade when it already works fine?
+
+➣ Stable base to build software on
+
+➣ 1. For laptops I usually install one version of Debian on them for all their lifetime.
+  2. In general I have not enough time to reinstall systems as often as I would like.
+  3. In production we have many servers running very old applications with their very old dependencies, and it's not possible to upgrade to a new version of Debian. The only solution is to wait for the natural death of the applications (i.e. when nobody are using them anymore).
+
+➣ Like the stability, especially on servers
+
+➣ For one server not yet migrated.
+
+➣ Allows longer time between release updates
+
+➣ Updating to the next release is of relatively high risk. Using a release as long as possible and then updating twice in a short row gives me the longest piece of time without the risk.
+
+➣ Very old hardware
+
+➣ 1. Some software didn't support the newer Debian version
+  2. We didn't need to use the latest  features
+  3. Then no enough resource to upgrade to the newer Debian version
+
+➣ systemd (which I don't want on my systems) interferes with upgrade to Debian 10
+ old or exotic hardware hinders upgrade/migration to different OS
+
+➣ Some of my customers can't immediately upgrade to the next Debian version for various reasons.
+
+➣ Delay distribution upgrade
+
+➣ To maintain stable and secure systems without a hassle of otherwise mandatory distribution upgrade with purpose of obtaining security patching of systems that otherwise work just fine.
+
+➣ Sometimes, I can't upgrade as fast as I want to, usually due to problems with old hardware or 3rd party software which might have dependencies that can't be fullfilled in newer versions of Debian unless I'd compile from source.
+
+➣ My decentralized, sclerotic organization has a hard time keeping all of its Debian servers upgraded to the current stable release. New servers are always installed with the current stable release, but we have machines, sometimes up to 5 years old, that often do not get a dist-upgrade within a year after a new stable is released.
+
+➣ Can't upgrade some systems. It is great to have long security support.
+
+➣ If something works, don't fix it. That is why i use LTS - it also gives me a peace of mind that there is no too ugly bugs in important infrastructure such as mdraid, filesystems, webservers, etc...
+
+➣ Hard to upgrade some workloads.
+
+➣ Production systems
+
+➣ To be able to plan upgrades better without depending on the regular stable release cycle too much.
+
+➣ Avoid major upgrades (especially the time to properly migrate and verify configuration, etc.) on systems that are 'just supposed to work' until a time where the upgrades are much more convenient.
+
+➣ Hard to coordinate upgrades every 2 years across all of our users
+
+➣ Stability without need for dist upgrades
+
+➣ Too slow to upgrade all machines to currently supported versions
+
+➣ stability, simpliciity
+
+➣ too lazy to upgrade
+
+➣ I need to support legacy systems
+
+➣ Hard to upgrade systems sometimes
+
+➣ Small backup servers that requires minimal maintenance.
+
+➣ Older, more stable software that is still supported
+
+➣ Longer support cycle of productive systems
+
+➣ To have security update and a long living virtual machines
+
+➣ Sometimes to avoid a potentially painful upgrade on hardware scheduled for replacement or a deprecated service. Other times because the service owner is terrified to upgrade.
+
+➣ Lazyness. Updating Debian always takes a day or two and though I like new features I like stable running systems more. 
+
+➣ Stability
+
+➣ If things work, why upgrade....
+
+➣ accidentally as in: not having had time to migrate to new stable yet, and happy that there's no immediate need to.
+
+➣ To relax the time frame in which I have to upgrade my systems.
+
+➣ I prefer having a stable system.
+
+➣ Old self developed software deployed with a very old deployment method.
+
+➣ I use it for three projects which have very limited admin resources (just me!). For all three, I needed a system that I could set up with unattended upgrades and then mostly forget about.
+  1. Family server for remote backups, photo sharing, VPN (for a relative in China), personal websites, etc.
+  2. My father's desktop computer. Web browsing, email, photos, and (until it stopped working) Netflix.
+  3. A lab of community computers for a building of elderly, disabled, and low-income people. Debian LTS (with a dynamically created & destroyed guest account) has given them access to the digital world when there is no funding for someone to maintain their computers.
+
+➣ Legacy software support.
+
+➣ It is often not possible to upgrade all ~200 servers in time after a new stable release.
+
+➣ Corporate systems (Telecommunications) seldom get changed, so LTS is a goot choice to get updates at least (manually).
+ For my web server LTS is good as I can install once in a while and then let it running.
+
+➣ I'm not using LTS myself but it's too hard to tell friends and customers to upgrade.  On boxes I help to admin, they use LTS, ELTS and expired.
+
+➣ my org is slow to update
+
+➣ I like a stable OS.
+
+➣ I prefer to defer updating while the system is working well in order to make better use of my time and avoid potential problems.
+
+➣ I use LTS on dom0 server systems that thanks to UPS and care often have uptimes in the hundreds of days, often approaching thousands of days.
+  While daemons get updated, there aren't many things running, so only very serious kernel exploits will cause consideration of a reboot.
+  What I don't want, is when I decide to reboot, that I discover that I can't do an update at all.
+  The VMs living on this platform are often running considerably newer versions.
+
+➣ Reduced upgrade churn
+
+➣ i'm working for couple companies who are really slow to adopt new versions. Also current release cycle is kind of fast if you manage hundreds of machines.
+
+➣ Customers unwilling / unable / too slow to keep up with changing software.
+
+➣ Why change when its stable?
+
+➣ Stability and ensuring library compatibility 
+
+➣ In my work, we offer VPSs, and people set these up with a certain Debian version and often don't want/need to dist-upgrade, so they go on to LTS.  Long support is very important to let Debian be viable in the server space.
+
+➣ to postpone the need to reinstall some servers
+
+➣ Mostly to avoid having to upgrade systems.
+
+➣ Upgrades on Server Systems need a Lot of planning and testing. It is nice to have a stable basis for some reasonable time.
+
+➣ Commercial distribution Univention Corporate Server based currently still on Debian-9-Stretch
+
+➣ Customer's demand
+
+➣ Support customers projects and their migrations
+
+➣ To avoid frequent system upgrade, mainly for servers.
+
+➣ The time to upgrade the system landscape (because of changes, lack of manpower) is long. So we're happy that something like LTS exists. This gives us time to test the upgrades to new debian releases properly and roll them out.
+  Btw. I just want say a bug THANKYOU, for all your great work.
+
+➣ Product stability and less update effort.
+
+➣ old php versions for some apps
+
+➣ I haven't been using Debian LTS for long enough.
+
+➣ Supporting older hardware
+
+➣ To help customers smooth the transition between major stable releases.
+
+➣ Maintaining datacenter machines which are already running old stable releases and supporting cloud images for our customers.
+
+➣ I use LTS because I don't always update my servers every three years, so they up running oldstable for a while after stable is released.
+
+➣ Because sometimes, migrating something to stable requires too much work.
+
+➣ LTS is essential for business
+
+➣ Customer refuse to upgrade their software so we need to keep old debian version running and .. secure.
+
+➣ Stable system for the servers. Usually the system gets setup. No update to next release until new Hardware is installed
+
+➣ Installing a new Debian release is a lot of work for me, since I always install from scratch and then manually reproduce my configuration from the old release.   If I have a working system that I'm happy with, LTS allows me to keep using that system safely and avoid the work of installing a new release until I really need it.  On many systems, LTS has allowed me to continue using release N until release N+2 comes out, thus cutting my overall installation work in half.
+
+➣ Because it is hard enough to convince customers to upgrade their (often PHP-based but also other) software we run on servers once every 3-5 years.
+
+➣ Website application cant upgrade when newer Debian have newer version of language.
+
+➣ Based on product requirements.
+
+➣ To keep a good working solution running!
+  And, often newer versions are more resource hungry without any (obvious) advantage.
+  Sometimes they contain even bad mechanisms (systemd).
+
+➣ Because we have some systems that could
+  Not be Upgraded yet.
+  E.g. ones requiring PHP 5
+
+➣ Running system's I don't have the time to upgrade right now.
+
+➣ longer support range then the common 3 years
+
+➣ debian support is too short
+
+➣ There are some projects, a recent example is Yunohost, that are based on Debian stretch that haven't updated their software to run on buster yet.
+
+➣ More time to schedule dist-upgrades. Fewer dist-upgrades overall.
+
+➣ Upgrading legacy software to get it working with new technology is too expensive sometimes
+
+➣ VPS provider doez not yet offer fresh install of new Debian version. I always prefer a clean install over an upgrade.
+
+➣ During the first 6 months I'm not sure that a new Debian release is really stable.  Then we start migrating developer desktops.  Then some servers.  Then other servers.  It all takes years.  LTS allows us to migrate everything steadily without hurry.
+
+➣ Long lived systems/products
+
+➣ ability to run Stable for longer while having security bugs patched (as it is not possible for us to keep all our servers on Stable in regular stable/oldstable cycle)
+
+➣ I use some LTS instance for personal stuff. The main reason is the laziness to spend some time to do the upgrade, if it works let it work!
+
+➣ getting security updates for a longer period, as we have too many servers to follow regular stable upgrades on schedule (we usually upgrade 2-3 debian versions at once)
+
+➣ My organization has some old legacy software that needs to run in old versions
+
+➣ Productive systems not easily upgradable.
+
+➣ Because I have critical cloud servers that are difficult to update or whose update requires coordinated action with updating other devices, and all that need to be carefully planned.
+
+➣ Stable platform where the latest software is not required.
+
+➣ Don't want to immediately upgrade all systems to the latest stable.
+
+➣ Legacy systems tend to slip to LTS when nobody develops the services running on them further to ensure upgrade compatibility with new versions.
+
+➣ Stability, existing knowledge
+
+➣ Because of bureaucracy reasons, services qualified to run on a given configuration have to keep running for several years, and this means we can not easily upgrade our whole fleet of Debian servers at once. 
+
+➣ We use it for us and our customers for mainly 2 reasons:
+  1. lazyness / better time management to schedule updates
+  2. because there is 3rd party software or customers own and self developed software that is not (yet) able to run on newer versions
+  The 2nd option beeing the way more important option.
+
+➣ Because I need a stable platform and I can't update offen my servers
+
+➣ I see LTS as continuation of the great work of Debian's reliability. 5 years seems to me a good time scale for taking the full benefit of the stable version.
+
+➣ Stable servers running infrastructure services
+
+➣ Too many servers to upgrade them within one year of the release of the new version of debian
+
+➣ 1.) Upgrading the production server infrastructure with e.g. a HA-Solution  (pacemaker/corosync) is painful and needs long preparations and tests.
+  2.) We don't have the manpower (just me) to upgrade (including prior testing)  all servers and desktops every two years.
+  3.) Own software which still relies on older libraries, programs  not available in stable any more.
+
+➣ It is one of the most stable, secure, and unbloated ways to run Linux. It is especially useful for severs and as the base distribution for Docker images.
+
+➣ Mostly to provide minimal system security upgrades on systems that can't be upgraded in a timely manner, usually for $application reason:
+  - the customer doesn't want to pay anything to do the needed upgrades / tests in a new debian version
+  - a new version exists but the old version needs to be kept available for $reason (compatibility, partners with specific B2B code…)
+  - the version that works in current stable is late / has unexpected issue and we need to keep the old one running
+  ...
+  This is mostly in a (mostly web) application hosting context, where I'm in charge of the infrastructure down to the OS level, and some of the app (usually everything but the app code itself).
+
+➣ I'm using schroot'ed Deinan LTS to test my project running on old version of Perl.
+
+➣ When something just works, I'm not heavily motivated to put a lot of effort into changing it.
+
+➣ Servers, especially database servers.  Systems I want minimal downtime on, and not have to worry over OS upgrades on.
+
+➣ We run a couple hundred Debian instances on servers and user systems in a research environment. Though we use FAI for installation, it's still a significant interruption and amount of work to upgrade on the main Debian release schedule, particularly with project schedules. Interoperation of systems makes this a little more complex, too. Occasionally we have some local legacy software which requires porting to newer releases as well. So it's a real help to have the opportunity to run on a longer release schedule.
+  If by ELTS you included the Freexian project, we do make use of their work as well.
+
+➣ Very stable, meaning other things can receive more attention.
+
+➣ Low priority and value in upgrading critical infrastructure.   It takes a lot of person-time to vet an release, and we like to get as much life out of it as we can, as long as there are no new features and no critical security issues.
+
+➣ working production server
+
+➣ Sometimes I'm too lazy to dits-upgrade
+
+➣ More time for system upgrades to the current stable version
+  Using existing code relying on older PHP/Python/...
+
+➣ Server OS and laptop
+
+➣ Old software compatibility
+
+➣ reduce the amount of OS churn
+
+➣ Because some of my servers are not upgraded in a timely manner.
+
+➣ Upgrade to new stable as seldom as possible and when I can afford downtime
+
+➣ No time to upgrade all those servers.
+
+➣ My primary reason to use LTS is to have more time available to plan upgrades on multiple systems.
+
+➣ Laziness
+
+➣ to save time to keep my private services like mail, editor, etc.
+
+➣ - a generic stable /in time/ platform for specific use cases (security patches for only core components are still adequate for non-server use cases)
+  - supported platform for older HW (current browser backports are critical)
+  Workload management - ability to extend the life of a system and thus prevent a re-optimization and re-validation of deployed software stack /semi-industrial use for CNC/.
+
+➣ Its hands down the best
+
+➣ Provide a stable system to my users - upgrade is not always trivial.
+
+➣ Stability of workstations.
+
+➣ Older systems which are hard to upgrade.
+
+➣ Generally I personally don't tend to use LTS much. I prefer to run 'stable'. However, I'm currently using it as I've not had time to upgrade (or more to he point; not had time to set aside to deal with any issues that might occur).
+  As a Debian derivative developer/maintainer though, our users benefit of the LTS, meaning that they don't need to update ASAP when 'stable' becomes 'oldstable'.
+
+➣ I need an operating system that is stable over an extended period of time. Once I have the system set up, I can't afford to continuously invest time and effort in upgrading.
+
+➣ Delaying upgrades to a newer Debian version gives flexibility to keep some secondary legacy systems up and running as they are, especially if it is known that the system in question will be phased out during LTS/ELTS period.
+
+➣ Software development
+
+➣ I used LTS at a previous job, but I'm not a current user
+
+➣ To avoid security issues longer for my clients who haven't finished porting their app to the latest Debian version.
+
+➣ Lower maintenance on minor servers with no need of updated sw
+
+➣ Production environment
+
+➣ I don't want to have to update my systems every 2 years.
+
+➣ Application testing takes longer.
+
+➣ Mainly to have a longer timeframe in which a release is supported. Sometimes to skip a release - like upgrading from jessie to buster.
+
+➣ I use LTS to provide better client support service.
