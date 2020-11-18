@@ -1,0 +1,607 @@
+﻿Do you see problems with/about Debian LTS and if so, which?
+===========================================================
+
+➣ None.
+
+➣ When I want to have a new software on it, I have to choose flatpaks.
+
+➣ Debian website does not have one clear overview of release support timelines, e.g. on debian.org/releases. Need to click throug to wiki pages etc.
+
+➣ I need to use Backports to stay up to date a little bit more. It took some time to find out.
+
+➣ There's a tool that tells me what packages are supported for security updates but it's not quite in my face enough. 
+
+➣ Most users don't even know it exists.
+
+➣ Paying some people and not others introduces room for friction.
+
+➣ Funding and the overall effort seem precarious and there's not a lot of confidence in long-term viability.
+
+➣ no
+
+➣ Too short
+
+➣ Sometimes versions are a bit old. But I prefer that to having an unstable system.
+
+➣ Lack of coordination by LTS contributors with the package maintainer in Debian.
+
+➣ LTS time frame is too short! :)
+
+➣ Little bit slow.
+
+➣ No one
+
+➣ No problems so far.
+
+➣ Thankfully no problems so far.
+
+➣ No
+
+➣ Update software. You do not backport fixes and software should be updated not backported to broken POS. New versions don't have problem but you are stuck in the past and that renders DEBIAN LTS OBSOLETE. You don't have even Libre Office on the current suported version!!! Yours version has reached EOL year ago. SMplayer/mpv/Smtube DO NO WORK (how can one watch youtube without being def by a CPU fan if firefox has no VAAPi? One has to use SMPlayer/mpv/Smtube to play youtube, but yours is broken!). But since you don't use it as your daily driver, then you don't give a fuck. And since you don't use it as your daily driver you don't give a fuck, that you can't read any text. Since you don't use it as a daily driver yout don't give a fuck about unreadable text everywhere (font rendering-Ubuntu or Infinality + color filtering of chosen strenght....). And you don't care you stuck by default on alpha quality DE. And others are so outdated that are not LTS (KDE) or are POS (XFCE) of the yester yay. WTF. LTS my ass.
+
+➣ Work effort in times of Meltdown/Spectre etc and supporting software which has already no upstream support.
+
+➣ well, there is less pressure to change not so critical, non-online systems with LTS support. On one side this is good and saves a lot of stress on the other side this makes kinda lazy ;-) 
+
+➣ No
+
+➣ Not so much
+
+➣ The main reason I switched from Debian LTS to Buster and some backports is because of how outdated Firefox became—I got so used to Firefox Quantum when it was released, that when I switched to Debian LTS, it was like going back in time. I used it for a while, but ultimately ended up going with Buster and some backports to get the software I wanted.
+
+➣ I can't think of any.
+
+➣ None.
+
+➣ nothing
+
+➣ nope
+
+➣ None so far.
+
+➣ Unclear state of which packages are really supported and for how long (like sometimes a package ends up as not-supported-anymore during the lifetime of the LTS support), see e.g. `#961270: RM: pdns-recursor/4.0.4-1+deb9u4`.
+Kernel package updates tend to be sometimes quite delayed/slow when compared to other distributions like Ubuntu's LTS.
+Debian's LTS is very much focused around Freexian.
+ELTS infrastructure is down quite regularly and not being part of Debian's official infrastructure.
+
+➣ In one case, the clamav package in LTS had a newer version number than in the following stable version, so I needed to fix this manually. I think this happened while upgrading Wheezy LTS to Jessie.
+
+➣ The main problem I see with Debian LTS is actually more with the security team at this point. I feel that the secteam has less staff, and possibly less time to do updates on the more important stable, and officially supported, Debian distribution. I worry that there is a growing discrepancy that could make LTS *more* secure than our stable release because paid staff take care of it.
+
+➣ Implementing on new pkatforms isvtoo long.
+
+➣ Some security-critical packages are not provided very timely (but that's already an issue for stable)
+
+➣ Doesn't last long enough.
+
+➣ packages are outdated
+
+➣ Well the first issue i notice is debians lack of graphics driver support i would like to see debian break the mold so to speak of having to worry about are my mesa amd or intel drivers the latest stable release or not 
+I know that one thing LTS really needs is to be more up to date with stable versions of stuff like mesa graphics drivers debian does not need to suffer from the ppa issues of ubuntu were no matter if it's LTS or not the user always seems to be behind everyone else on driver versions same with the kernel use the latest stable version
+
+➣ Important updates to some tools don't always reach LTS or backports. There are workarounds but I works prefer not to rely on them.
+
+➣ I would like to see more major package updates and not just security updates, but also more frequently.
+
+➣ Systemd and other imported garbage code from Redhat (esp. Python code)
+
+➣ not really.
+Maybe it's a risk to use LTS with some unpopular packages, that may not get security updates. But that's even worse on Ubuntu LTS, since there is no security support for universe...
+
+➣ Only if you stop offering it. Then Ubuntu would be much more attractive.
+
+➣ Unupdated or old display (non-free) drivers.
+
+➣ When libc in testing or unstable gets upgraded, it often breaks my ability to use newer packages via apt pinning. Sometimes I can just rebuild from source, sometimes I end up in dependency hell. 
+
+➣ N/A
+
+➣ Nothing 
+
+➣ There’s a lot of great info on the Debian homepage about LTS, but it’s not always clearly written or easy to find. So the main issue is simply communication. 
+
+➣ Nothing for now
+
+➣ Lack of advertising: Benefits, reasons to adopt Debian LTS, funding Debian LTS, e.t.c.,
+
+➣ It should be clearer for the admin that a distro i nearing eol
+
+➣ I tried to upgrade from 9 to 10 and it did not work, under advice from a developer  - tried to upgrade without using a disc/usb stick. . I had to re-install from scratch and use the backup to try to get back to where I was.  It still is not quite right
+
+➣ No.
+
+➣ No
+
+➣ The https://wiki.debian.org/ isn't consistently up to date and especially for novices and non-contributors, finding solutions to problems or even understanding new features is a fractured experience. The information is usually out there but one has to learn how to look for it then spend a considerable amount of time parsing multiple sources. A task impossible for all but the most intuitive novice, and burdensome to anyone else. In the medical profession, care providers can spend as much time if not more documenting their work as they do actually practicing medicine, yet the nature of mostly volunteer collaboration makes documentation more chance than a necessary part of developing. 
+
+➣ Actually no problems at all. I just had some issues with some drivers it was easy to solve thanks to the wiki.
+
+➣ No complaints.
+
+➣ No
+
+➣ There is a fear that the project may stop since it's kind of a side-project for Debian. (That's why I pushed my employer to sponsor Debian LTS)
+
+➣ No updates for some important packages. Xen's upstream realize have a really short term EOL and it is particularly hard to upgrade an host without problematic downtime.
+
+➣ There's a lot of feedback about how newer software/features are slow to come to LTS. 
+
+➣ No
+
+➣ Yes. Some packages don't get the latest stable updates which are available in the latest Debian releases.
+
+➣ Hardware support.  I predominantly use Debian on my laptop.  Even with using all the solutions available to optimize heat and battery life such as thermald I find that my laptop struggles.  It would be great to see an LTS version that focused more on optimizing heat management and battery life.
+
+➣ Maybe 5 years of support is too much, small period could force IT teams to upgrade the OSs more frequently.
+
+➣ Sometimes difficult to find backports of software not in the official repository.
+
+➣ No.
+
+➣ It would be nice to see LTS bug reports coexisting more equally with the rest of Debian within the BTS and PTS.
+Perhaps this is not possible, given how the LTS project is structured.
+
+➣ Third Party Apps Like Firefox Should Be Latest.
+
+➣ Not using LTS, but Stable instead. Even so, even if I'm looking for a stable release, it's frustrating to always be behind many other distributions, starting with the kernel version. But that's not the main problem ... See next.
+
+➣ No problems.
+
+➣ Reported bugs with fixes upstream are sometimes not fixed for years.
+
+➣ LTS feels like it's unofficial. This kind of stops Debian from being used more widely. This year I have worked in organization that still uses Centos6. I'm guessing, getting close to 10 years of support is really an attractive argument for business.
+
+➣ Some packages is old version. For example security ones.
+
+➣ no
+
+➣ N/A
+
+➣ No
+
+➣ everything is ok. I am able to install in /opt directory latest software.
+
+➣ No
+
+➣ I think its semi-official status is problematic. We've encountered a serious regression in systemd security bug backporting and it caused completely system instability for some weeks. It was alarming to us that such a serious bug existed for so long.
+
+➣ Not with LTS, but in general - id' love to see more updated user facing software in backports. Ex Firefox, Telegram Desktop etc.
+
+➣ No
+
+➣ short support
+
+➣ No problem
+
+➣ no problems
+
+➣ No
+
+➣ No
+
+➣ In the past, some folks have been concerned at the level of work that supporting LTS might require on the cloud team. But during the recent round, all maintainers agreed to continue producing images through the LTS period. So I think the initial concerns were either fixed, or were unfounded. I'm quite happy about that situation!
+
+➣ I'm happy with LTS, I haven't noticed any problems.
+
+➣ I would love to see internal LTS infrastructure (e.g. internal mailinglist, etc) use official Debian infrastructure.
+Extending support to six years after release would be awesome.
+
+➣ No
+
+➣ Not yet
+
+➣ No
+
+➣ Need updated software to be made available in the repos faster
+
+➣ I think LTS could use some more userfriendly website that explains to average users what LTS is and how to use it. I know this is documented on the Debian wiki, but it seems quite hard to find one's way around if one does not know what LTS even is, why one would use it etc.
+
+➣ No. 
+
+➣ n/a
+
+➣ People don't get the point of LTS.
+Everyone wants the new blingbling today but please without breaking updates and security problems.
+That task is like finding an odd perfect number!
+Only too few are grown up enough to think different.
+
+➣ No problem
+
+➣ No problem
+
+➣ I hope it will be sustainable. I understand and appreciate it's a lot of work.
+
+➣ No problem
+
+➣ Browsers updates sometime.
+
+➣ some packages are a little bit old
+
+➣ The system as a whole, specially its kernel, is a bit old.
+
+➣ None.
+
+➣ The Chromium browser is not updated.
+
+➣ Not clear which packages are and which are not patched.
+
+➣ Without Debian LTS, we will have to use Ubuntu LTS instead, even if we prefer Debian.
+
+➣ No
+
+➣ It's only 2 years. Apart from that no problem whatsoever.
+
+➣ Old kernel , old apps
+
+➣ We will see.  Going into LTS for the first time with Stretch.
+
+➣ N/A
+
+➣ The reports of the LTS developers seem to be a little bit unmotivated. I think it would be better if only one report is compiled and published as proper news.
+
+➣ The name is confusing. 
+
+➣ Sometimes it takes a bit too much time to get the updates. We run Go servers in production, and in the end we needed to give up Go from repository and compile our own. 
+
+➣ As a Debian user, I find the distinction between Debian proper and Debian LTS to be confusing and unhelpful. Internally within Debian it makes sense, but as a user it would be best if nothing changed at all with the handoff from the stable release and security teams to the LTS teams. That is, for example, security updates for LTS should continue to be delivered via debian-security-announce and labelled as Debian Security Advisories. The fact that a different group of people is responsible for producing these updates really isn't relevant to most users.
+
+➣ No
+
+➣ encourages people to not upgrade
+
+➣ Browser updates.
+
+➣ no
+
+➣ LTS is a very good thing. I don't knoy much about it since Stretch LTS is brand new.
+
+➣ The process to update/release Debian in general is too slow, according to what's happening anywhere today, but still we get great releases every time... I'd like to move a little faster, maybe releases every 12 months, just that.
+
+➣ There is a friction between (E)LTS and some Debian core teams, and this friction is structural/systemic: The approaches/motives/POVs of the teams necessarily differ and are logically in potential conflict. I.e. the LTS team is responsible to the paying companies, and the contributors benefit personally from fulfilling their assigned hours. This at least can, probably subconsciously, lead to the impulse to get many and fast updates out. These interests can be in contradiction to the volunteer teams and their open or implicit motives (maintaining as little machines and architectures as possible, differentiate between DSA and point-release issues, …, in short: keep the current stable and future (and oldstable for a year) releases going). -- This friction is nothing personal or related to any ill-well on any side but a consequence of the setup with the intersection of the commercial LTS team and the volunteer core teams.
+
+➣ LTS/ELTS should be an official part of Debian. Please provide more information and be more welcoming to new collaborators (even to non-Debian developers). Clarify which of the end-users can profit from ELTS and how [1].
+Allow smaller payment and arbitrary donations from people who cannot afford to pay the full price of ELTS silver level (even if they would have no influence on decision making). I would like to contribute somehow but the described rate of 255 EUR per hour is something I cannot afford and don't want to pay. However, I really appreciate the openness in this detail. This is the biggest obstacle for me to support LTS/ELTS because I cannot afford to support people with such a higher cost of living than my own.  It would cost me too much, having a negligible positive effect. I am senior programmer in Czech republic, costing my employee 10 EUR/per hour, same netto-income would be equivalent to 6.5 EUR/hour if I were a freelancer. This might be a low salary for programmer, but is (nearly) the overall average salary in my country.
+[1] https://wiki.debian.org/LTS/Extended mentions ELTS updates and security fixes will be available for all Debian users without cost, however the linked https://deb.freexian.com/extended-lts/ says Subscribing to LTS at a silver level (2040 EUR / 6 months) is a pre-requisite to be able to join the Extended LTS service.
+
+➣ No.
+
+➣ sometimes slow security updates
+
+➣ too amateur to see some
+
+➣ Backports are missing and really ought to be covered. For example, we have Tomcat 8.0 supported by LTS, but Tomcat upstream supports 8.5 only and we have no way to actually test 8.5, or upgrade Spring Framework to a version that requires 8.5 without either losing the base OS to an upgrade (not feasible for other reasons) or using now-insecure backports.
+
+➣ Some Hard- or Software may only work with the latest system/kernel version.
+
+➣ I see no reason to use Debian LTS, because plain Debian is stable enough and the release cycle is long enough.
+
+➣ Since we use LTS at work, people (me included) has become even slower to adapt our systems to the new Debian stable releases. This is not a fault on LTS but on us :-)
+
+➣ No
+
+➣ Upgrade even more costly after long lts usage. New system setup from zero not always possible
+
+➣ LTS is a critical offering for the business community, and I'm concerned that the main Debian project people and LTS people don't seem to get along as well as they should.
+
+➣ Frankly none, it's simple and efficient : it's there, just works without thinking about it and Raphaël is a reliable contact.
+
+➣ always too short..
+
+➣ The only problem is knowing when to switch APT sources. 
+
+➣ Probably it should be somehow better documented to be more visible in the Docs. I've learned about the LTS when I was wondering for how long will Stretch be maintained after the Buster release.
+
+➣ No.
+
+➣ nope
+
+➣ No issues with stability
+
+➣ No
+
+➣ Jessie stops
+
+➣ Sometimes LTS is too «stable». In the meaning that some applications are too much out of date. Of course thats a pro-con
+
+➣ I don't see problems.
+
+➣ I think the only issue I could see is certain packages becoming outdated for certain applications that require newer versions of required software. Example PHP.
+
+➣ No problems.
+
+➣ Not really
+
+➣ no
+
+➣ Nope.
+
+➣ I would like to see more involvement from the Debian security team in LTS releases.
+
+➣ Sometimes I have driver/firmware problems.
+
+➣ Lack of compassion, one sided religion jokes, want users and administrators to write code for project leads. Bad attitude.
+
+➣ It doesn't force to upgrade to the newer version of Debian, so I still have Jessie in production. 
+
+➣ None so far.
+
+➣ None
+
+➣ Software packages are stable but not uptodate. Like the Kernel, 4.19.
+Also, driver support from the installation. Linux mint Debian Edition gives you the option to install NVIDIA graphics drivers in the installation
+
+➣ Honestly, it's perfect for home-use, gaming, desktop use, server use.
+
+➣ no
+
+➣ Absolutely no problem.
+
+➣ no issue to be reported so far
+
+➣ No
+
+➣ No.
+
+➣ I hope it will be continued and will be enough people to to contribute, I'd like to do also but I'm not so courageous.
+
+➣ No problems
+
+➣ Maybe not very updated software but I understand Debian reasons.
+
+➣ No
+
+➣ As a user I am very happy with Debian 10, will never go back to Windows. Gaming can still have a boost. Especially the shooters.
+
+➣ I can't see any problems.
+
+➣ no (the few problems that existed in the past have been solved a long time ago)
+
+➣ No answer at this time.
+
+➣ I do not wish to use systemd.
+
+➣ I have not seen any problems.
+
+➣ No
+
+➣ testing is Best
+
+➣ Hardware support is not added with successive updates
+
+➣ Getting more up-to-date Mesa graphics drivers could be easier.
+
+➣ nope, the more the merrier
+
+➣ No. Not yet.
+
+➣ None so far.
+
+➣ no.
+
+➣ LTS project releases much frequent updates for issues which under regular support aspect would be batched later with more important updates or even in point releases. Issues can probably be assessed differently under the aspect of the severity, what can be batched in a later update with more important updates and considering as well possible breakages.
+There seem as well conflict fields between other teams within Debian which perform their work on volunteer basis. This later point mainly could be seen that from outside LTS is usually seen as a result of the work of the paid conributors uploading packages, but this is very much not true because the success or not success of LTS depends on various other teams which do their work on volunteer basis (this range from security team, security-tracker team, ftp-masters, DSA, buildd admins, BTS, website team, ...).  Those to follow what LTS does need for instance from time to time need to follow the lts mailinglist (sometimes things on security-tracker are not looping in neither the security-tracker mailing list nor the security-team. On certain uploads ftp-master need to intervene as well (either due to infrastructural bugs, or because of an upload really needs it, e.g. when uploads need to pass trough NEW). buildd and DSA need to maintain machines and build infrastructure.
+There are in my view as well some structural or maybe core different views in e.g. security team and lts team in how decisions are taken (say on classifications). They do not necessary overlap and have potential for conflict in itself.
+The above question about 'how fast LTS updates reach the user' is not always a criterion. It depends on the severity, risk for breakage, etc ...
+
+➣ Not so far
+
+➣ Sometimes the latest software releases are not available. But at least I know I'm running a stable system. 
+
+➣ Work and time to keep alive lts
+
+➣ no
+
+➣ Too many regressions, plenty of updates seem entirely untested. Also, updates are frequently issued for completely harmless issues, which is especially annoying for packages like qemu inducing VM restarts. All other distros limit the scope of what gets fixed in LTS releases (check RHEL's or SUSE's policies e.g.), while Debian LTS seems doing the opposite. Also, updates often seem rushed with DLAs being sent before they are even fixed in Debian unstable.
+As a consequence we've switched to manually reviewing updates before applying them. We have ~ 200 servers running LTS, and security support takes about the same amount of time as our 1500 servers running Debian non-LTS.
+
+➣ no
+
+➣ It's not clear enough to many users which parts of Debian will (or won't) be covered by LTS. This leads to user pressure on regular (i.e. non-LTS) developers to support things longer than they ever signed up for. Until and unless LTS team members cover *all* areas in Debian, this will continue to cause friction.
+
+➣ Distracting devs from updating current release, burning dev time
+
+➣ Marketing problem: Many more people should be aware of Debian LTS!
+
+➣ Needs more automation and visibility of the current status.
+
+➣ no problems
+
+➣ No
+
+➣ Sometimes packages with issues take a long time to be updated or are removed due to lack of upstream fixes/support
+
+➣ I think it's not very clear to most users what LTS is and how it relates to Debian
+
+➣ None.
+
+➣ For my own usage as a user and developer I prefer using cutting edge packages from unstable or testing.  That is, I'm not responsible for mission-critical infrastructure servers that would benefit from LTS.  However if I were to switch to a different role supporting long term sensitive servers, I would be glad that LTS were available.  So I'm not personally affected, but I can imagine an problem I would be concerned about if I needed to run LTS could be availability of human resources to fix serious problems swiftly if they arose, such as invasive hacking events.
+
+➣ No, it is perfectly fine.
+
+➣ Patchy coverage of packages is confusing. 
+
+➣ Not all software is updated.
+
+➣ I don't use it nor do I plan to.
+
+➣ No problems yet, but biggest issue is ensuring security fixes are backported and their interactions with other packages doesn't break (thus, preventing the installation of the security fix in LTS).
+
+➣ Occasionally there are problems related to the age of software versions but it seems to be a necessary tradeoff for stability. 
+
+➣ I have no idea what it is.
+
+➣ I'm a desktop user on Debian 10, Here are some desktop envirment problems:
+1. LightDM do not source the /etc/profile from 2011 to just now, It's a bug and LightDM team has fixed in 2011 or 2013. Only Debian branch not updated this.
+2. Debian Installer maybe not very easy to use,
+3. Some Wireless-Card driver has not installed by default, even network utils are not installed, too. such as net-tools
+
+➣ Software versions in Debian LTS are too old for prod environments.
+
+➣ nope
+
+➣ End of life for LTS releases seems to be announced abruptly with not much notice (that I can see at least).
+
+➣ No
+
+➣ None
+
+➣ I'm really unsure how the quality differs from regular stable support.
+
+➣ No
+
+➣ No, I think it has established credibility now
+
+➣ No problems.
+
+➣ It would be nice to be able to skip Debian release upgrades by having a path to jump releases while upgrading. For example, jump from Wheezy directly to Buster rather than upgrade from Wheezy to Jessie, from Jessie to Stretch, and from Stretch to Buster.
+This, along with long enough LTS, would have enabled me to go through the pain of full upgrade more rarely than biannually.
+When I need cutting edge software versions, I can use a Docker container, SNAP, or even a virtual machine with the most recent version, or even Debian Testing/Debian Unstable.
+With long enough LTS and ability to skip upgrades, I'd be able to upgrade Debian only when buying a new PC or replacing my PC's hard disk - at which time I'd need to install Debian anyway.
+
+➣ None.
+
+➣ It doesn't last as long as CentOS 6, which we are also still using, to provide security cover.
+
+➣ None
+
+➣ nope
+
+➣ No issues currently. Possibly the increased efforts needed to keep supporting the most essential packages in the future.
+
+➣ Having LTS contributors on payroll (unlike say, the security team) creates sort of a double standard.  At least in theory; in practice (from own experience) LTS contributors also help fixing security bugs in stable during their free time(?), which is most appreciated!  As long as it stays this way, and as long as all software from oldstable is treated equally, I don't see problems with LTS.
+
+➣ It helps lazyness of admins...
+
+➣ I constantly see confusion about the name. Users assume it means exactly the same thing as Ubuntu's LTS, but the fact of the matter is that half the project considers the LTS suite completely EOL.
+
+➣ Lack of security updates on chromium web browser.
+
+➣ No, and I think it is a good [re-]use of community resources... I'm glad it exists and people can make a living (or income complement) out of it.
+
+➣ No
+
+➣ No HWE kernel like Ubuntu.
+
+➣ Sometimes packages are excluded from support without a viable alternative (recent example: unbound) and without sufficient forewarning.
+
+➣ No problems.
+
+➣ Availability of current software may be sketchy, compared to CentOS, which suggests that you can run 10 years without upgrading. That sounds attractive for people who are unable to jump on the container bandwagon, although I appreciate that this is most likely a nuisance for those who are condemmed to support it.
+And since you don't seem to solicit comments on the question below, I'll include one here: LTS is good to have for just in case, and in case an organisation argues that they want to go CentOS because it has a 10 year lifetime, thus producing less work. Ie, when they think they can't afford the hasty 2-3 year upgrade cycle that Debian mandates.
+
+➣ No.
+
+➣ No problems
+
+➣ Does not include backports.
+
+➣ Users of LTS try to use very new open source packages (e.g. modules from PyPI) with old Python/OpenSSL/other system libraries from LTS and it leads to extreme sadness.
+
+➣ Sustainability.
+The idea of stable releases are no longer trendy.
+
+➣ no/none
+
+➣ Yes, Debian LTS is a commercial project driven by Freexian. Commercial companies making free use of community resources is bad for the project. Some of our hosting providers/sponsors/donors have a concern hosting a project with commercial activities.
+
+➣ I have not switched to 10 yet since it failed critically on first attempt with the first release. (Starting XFCE with startx command.)
+
+➣ First I was confusing Debian LTS with Debian stable since stable is supported 3 years which can be seen as long term (see ubuntu flavors).
+So I changed my first answer from LTS user to debian user. I'm probably not knowledgeable enough about Debian lifecycle.
+
+➣ No
+
+➣ The biggest problem is quality. There seem to be a high number of regressions and follow-up fixes. Sometimes the choice of what packages are updated or not seems arbitrary. Often the DLA is not posted for days after the updates are available. 
+
+➣ It should cover more architectures. apt.postgresql.org has to cease ppc64el support because it is missing from LTS and eventually even ftp.Debian.org.
+
+➣ Packages are too old
+
+➣ the only problem i see is, that it might keep people from upgrading to new stable, which will eventually bite them later (when LTS reaches EOL and the gap between LTS and current stable is already large)
+
+➣ Shoot first, don't even ask questions later. No reasonable QA.
+
+➣ None, except question eight now has me worried Debian LTS may go away.
+
+➣ We need a better estimate how long a LTS or ELTS release is supported. 
+
+➣ Too short life time.  People are still installing new RHEL6...
+
+➣ Different schedule than Ubuntu LTS, so some external packages (source trees) have many libc issues.
+
+➣ No
+
+➣ Not all packages are maintained over the whole Live span
+
+➣ I haven't been using Debian LTS for long enough.
+
+➣ It should be better integrated into the project, but I have no idea of how to do that :)
+
+➣ No
+
+➣ No, I don't see any problems.  LTS has worked very smoothly for me for several years, and the LTS mailing list has been very informative.
+
+➣ Lack of documentation suitable for non-technical decision makers to encourage them to update and to make them aware of the more limited scope of support in LTS when compared to regular support (ideally in their native language, German in the case of most of our customers).
+
+➣ Some openssl related issue hard to upgrade.
+
+➣ Some critical packages are not covered by LTS. But I understood that is a community project and if we really need it, we can contribute to it.
+
+➣ I am only afraid of it disappearing.
+An even longer support of the LTS versions would be welcome for me :-), but I do understand that this is difficult to accomplish.
+
+➣ no
+
+➣ Old web browsers with bugs
+
+➣ LTS deserves more advertising
+
+➣ some packages unfortunately stop receiving security updates while LTS is still supported
+
+➣ Haven't seen any.
+
+➣ packages falling out of security support
+
+➣ Please write documentation how to properly make salsa git branches for LTS packages.
+
+➣ Nope
+
+➣ no, I see the need for it but just did not have a need for it till now
+
+➣ Well, once in a while a package understandably falls out of security support. If it's an important one, say Apache or ssh, it forces an upgrade or other workaround when we may have figured we had more time before LTS support ended. It's possible I'm a little out of the loop here or not current but that seems to at least been an issue for us.
+
+➣ No problems. It works as advertised.
+
+➣ No problems :-)
+
+➣ It could use some more funding, to be able to support more packages. :)
+
+➣ Not at all.
+
+➣ No.
+
+➣ Lack of clarity and semi-formal commitments on length of support (ELTS).
+
+➣ Intergration with different hardware types tends to be problematic
+
+➣ Hard to know what packages are covered by LTS
+
+➣ No, very happy. Think it's great...
+
+➣ The information about its availability could be more visible, e.g. on the Debian web site. Currently, I think it's not very known compared to other LTS Linux distributions (e.g. Ubuntu).
+
+➣ No problems whatsoever.
+
+➣ no comment here
+
+➣ No
+
+➣ It's unclear if the funding model is sustainable, but it seems to have worked for quite a while. Overall I have been impressed with the LTS efforts.
+
+➣ It should be automatically available to anyone by not requiring any modifications to the sources.list
+
+➣ No.
+
+➣ Is there enough funding for LTS?
+Are all packages covered, if not, which one is not covered?
+Are all issues fixed in a useful time, and if its not possible, is it properly announced?
